@@ -1,0 +1,29 @@
+body {
+  background: #f0f0f0;
+  color: #333333;
+  margin-top: 1rem;
+  text-align: center;
+  font-family: 'Segoe UI';
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #444444;
+}
+
+.answer {
+  display: none;
+}
+
+button, .btn {
+  background-color: #666;
+  border-style: solid;
+  padding: 5px;
+}
+
+#reset {
+  background-color: #666;
+  border-style: solid;
+  padding: 5px;
+}
+
+
