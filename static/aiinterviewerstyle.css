@@ -1,0 +1,97 @@
+.AI-interviewer {
+    background-color: rgba(255, 255, 255, 1);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.AI-interviewer .overlap-group-wrapper {
+    background-color: rgba(255, 255, 255, 1);
+    background: linear-gradient(180deg, rgb(130.69, 180.41, 159.53) 0%, rgb(131.87, 152.34, 181.13) 100%);
+    width: 1440px;
+    height: 1024px;
+}
+
+.AI-interviewer .overlap-group {
+    position: relative;
+    width: 1369px;
+    height: 928px;
+    top: 55px;
+    left: 35px;
+    background-image: url(./img/rectangle-12.svg);
+    background-size: 100% 100%;
+}
+
+.AI-interviewer .x {
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    top: 47px;
+    left: 1280px;
+}
+
+.AI-interviewer .overlap {
+    position: absolute;
+    width: 1315px;
+    height: 843px;
+    top: 35px;
+    left: 30px;
+}
+
+.AI-interviewer .group {
+    position: absolute;
+    width: 1283px;
+    height: 80px;
+    top: 748px;
+    left: 19px;
+}
+
+.AI-interviewer .send {
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    top: 761px;
+    left: 1214px;
+}
+
+.AI-interviewer .text-wrapper {
+    position: absolute;
+    width: 1076px;
+    top: 0;
+    left: 112px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: var(--variable-collection-better-blue);
+    font-size: 80px;
+    letter-spacing: -5.6px;
+    line-height: normal;
+}
+
+.AI-interviewer .div {
+    position: absolute;
+    width: 1315px;
+    height: 743px;
+    top: 100px;
+    left: 0;
+    border-radius: 45px;
+    border: 1px solid;
+    border-color: #98a7b4;
+}
+
+.AI-interviewer .line {
+    position: absolute;
+    width: 3px;
+    height: 570px;
+    top: 163px;
+    left: 24px;
+}
+
+.AI-interviewer .black-white-simple {
+    position: absolute;
+    width: 88px;
+    height: 93px;
+    top: 33px;
+    left: 50px;
+    object-fit: cover;
+}

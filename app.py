@@ -1,13 +1,15 @@
 from flask import Flask, render_template, request, redirect, session
-import data.languessr as languessr
 
 app = Flask(__name__)
 
 @app.route("/")
 @app.route("/home")
 def home():
-    languessr.initialize()
-    return render_template("home.html", phonemes=languessr.phonemes(), language=languessr.language(), location=languessr.location())
+    return render_template("index.html")
+@app.route("/careerquiz")
+@app.route("/quiz")
+def quiz():
+    return render_template("quiz.html")
 
 if __name__ == "__main__":
     import os

@@ -1,0 +1,10 @@
+:root {
+  --green: rgba(154, 182, 162, 1);
+  --blue: rgba(161, 176, 204, 1);
+  --dark-text: rgba(81, 91, 103, 1);
+  --grey: rgba(217, 217, 217, 1);
+  --variable-collection-blue: rgba(118, 148, 203, 1);
+  --variable-collection-better-blue: rgba(122, 151, 169, 1);
+  --variable-collection-dark-blue: rgba(96, 121, 138, 1);
+  --variable-collection-light: rgba(232, 244, 241, 1);
+}

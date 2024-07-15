@@ -1,0 +1,371 @@
+.resume-builder {
+    background-color: rgba(255, 255, 255, 1);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+.resume-builder .overlap-group-wrapper {
+    background-color: rgba(255, 255, 255, 1);
+    background: linear-gradient(180deg, rgb(130.69, 180.41, 159.53) 0%, rgb(131.87, 152.34, 181.13) 100%);
+    width: 1440px;
+    height: 2006px;
+}
+
+.resume-builder .overlap-group {
+    position: relative;
+    width: 1369px;
+    height: 1895px;
+    top: 48px;
+    left: 38px;
+    background-image: url(./img/rectangle-9.svg);
+    background-size: 100% 100%;
+}
+
+.resume-builder .overlap {
+    position: absolute;
+    width: 1280px;
+    height: 361px;
+    top: 38px;
+    left: 53px;
+}
+
+.resume-builder .div {
+    position: absolute;
+    width: 1223px;
+    height: 321px;
+    top: 40px;
+    left: 18px;
+}
+
+.resume-builder .text-wrapper {
+    position: absolute;
+    width: 1076px;
+    top: 0;
+    left: 83px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: var(--variable-collection-better-blue);
+    font-size: 80px;
+    letter-spacing: -5.6px;
+    line-height: normal;
+}
+
+.resume-builder .p {
+    position: absolute;
+    width: 1216px;
+    top: 113px;
+    left: 0;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #374655;
+    font-size: 30px;
+    letter-spacing: -2.1px;
+    line-height: normal;
+}
+
+.resume-builder .text-wrapper-2 {
+    position: absolute;
+    width: 1216px;
+    top: 211px;
+    left: 1px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #7f93a5;
+    font-size: 25px;
+    letter-spacing: -1.75px;
+    line-height: normal;
+}
+
+.resume-builder .text-wrapper-3 {
+    position: absolute;
+    width: 1216px;
+    top: 159px;
+    left: 0;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #37465580;
+    font-size: 20px;
+    letter-spacing: -1.4px;
+    line-height: normal;
+    text-decoration: underline;
+}
+
+.resume-builder .input-field {
+    width: 1222px;
+    top: 251px;
+    left: 1px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: var(--size-space-200);
+    position: absolute;
+}
+
+.resume-builder .label {
+    position: relative;
+    align-self: stretch;
+    margin-top: -1px;
+    font-family: var(--body-base-font-family);
+    font-weight: var(--body-base-font-weight);
+    color: var(--color-text-default-default);
+    font-size: var(--body-base-font-size);
+    letter-spacing: var(--body-base-letter-spacing);
+    line-height: var(--body-base-line-height);
+    font-style: var(--body-base-font-style);
+}
+
+.resume-builder .input {
+    display: flex;
+    min-width: 240px;
+    align-items: center;
+    padding: var(--size-space-300) var(--size-space-400) var(--size-space-300) var(--size-space-400);
+    position: relative;
+    align-self: stretch;
+    width: 100%;
+    flex: 0 0 auto;
+    margin-bottom: -1px;
+    margin-left: -1px;
+    margin-right: -1px;
+    background-color: var(--color-background-default-default);
+    border-radius: var(--size-radius-200);
+    overflow: hidden;
+    border: 1px solid;
+    border-color: var(--color-border-default-default);
+}
+
+.resume-builder .value {
+    position: relative;
+    flex: 1;
+    margin-top: -0.5px;
+    font-family: var(--single-line-body-base-font-family);
+    font-weight: var(--single-line-body-base-font-weight);
+    color: var(--color-text-default-default);
+    font-size: var(--single-line-body-base-font-size);
+    letter-spacing: var(--single-line-body-base-letter-spacing);
+    line-height: var(--single-line-body-base-line-height);
+    font-style: var(--single-line-body-base-font-style);
+}
+
+.resume-builder .x {
+    position: absolute;
+    width: 48px;
+    height: 48px;
+    top: 0;
+    left: 1232px;
+}
+
+.resume-builder .black-white-simple {
+    position: absolute;
+    width: 88px;
+    height: 93px;
+    top: 45px;
+    left: 0;
+    object-fit: cover;
+}
+
+.resume-builder .overlap-2 {
+    position: absolute;
+    width: 1222px;
+    height: 113px;
+    top: 812px;
+    left: 65px;
+}
+
+.resume-builder .text-wrapper-4 {
+    position: absolute;
+    width: 1216px;
+    top: 0;
+    left: 0;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #7f93a5;
+    font-size: 25px;
+    letter-spacing: -1.75px;
+    line-height: normal;
+}
+
+.resume-builder .input-field-2 {
+    display: flex;
+    flex-direction: column;
+    width: 1222px;
+    align-items: flex-start;
+    gap: var(--size-space-200);
+    position: absolute;
+    top: 43px;
+    left: 0;
+}
+
+.resume-builder .text-wrapper-5 {
+    top: 1123px;
+    left: 72px;
+    position: absolute;
+    width: 1216px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #7f93a5;
+    font-size: 20px;
+    letter-spacing: -1.4px;
+    line-height: normal;
+}
+
+.resume-builder .text-wrapper-6 {
+    top: 1490px;
+    left: 77px;
+    position: absolute;
+    width: 1216px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #7f93a5;
+    font-size: 20px;
+    letter-spacing: -1.4px;
+    line-height: normal;
+}
+
+.resume-builder .input-field-3 {
+    width: 1222px;
+    top: 944px;
+    left: 65px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: var(--size-space-200);
+    position: absolute;
+}
+
+.resume-builder .input-field-4 {
+    width: 1222px;
+    top: 1034px;
+    left: 62px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: var(--size-space-200);
+    position: absolute;
+}
+
+.resume-builder .overlap-3 {
+    position: absolute;
+    width: 1222px;
+    height: 113px;
+    top: 1182px;
+    left: 63px;
+}
+
+.resume-builder .input-field-5 {
+    width: 1222px;
+    top: 1314px;
+    left: 63px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: var(--size-space-200);
+    position: absolute;
+}
+
+.resume-builder .input-field-6 {
+    width: 1222px;
+    top: 1404px;
+    left: 60px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: var(--size-space-200);
+    position: absolute;
+}
+
+.resume-builder .input-field-7 {
+    width: 1222px;
+    top: 1597px;
+    left: 64px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: var(--size-space-200);
+    position: absolute;
+}
+
+.resume-builder .text-wrapper-7 {
+    position: absolute;
+    width: 1216px;
+    top: 1554px;
+    left: 64px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #7f93a5;
+    font-size: 25px;
+    letter-spacing: -1.75px;
+    line-height: normal;
+}
+
+.resume-builder .input-field-8 {
+    width: 1219px;
+    top: 422px;
+    left: 72px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: var(--size-space-200);
+    position: absolute;
+}
+
+.resume-builder .input-field-9 {
+    width: 1222px;
+    top: 518px;
+    left: 69px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: var(--size-space-200);
+    position: absolute;
+}
+
+.resume-builder .input-field-10 {
+    width: 1222px;
+    top: 613px;
+    left: 68px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: var(--size-space-200);
+    position: absolute;
+}
+
+.resume-builder .input-field-11 {
+    width: 1222px;
+    top: 708px;
+    left: 65px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: var(--size-space-200);
+    position: absolute;
+}
+
+.resume-builder .frame {
+    display: flex;
+    width: 224px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 10px;
+    position: absolute;
+    top: 1702px;
+    left: 65px;
+    background-color: var(--green);
+    border-radius: 25px;
+}
+
+.resume-builder .text-wrapper-8 {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Inter-Bold", Helvetica;
+    font-weight: 700;
+    color: #ffffff;
+    font-size: 25px;
+    letter-spacing: -1.75px;
+    line-height: normal;
+    white-space: nowrap;
+}
