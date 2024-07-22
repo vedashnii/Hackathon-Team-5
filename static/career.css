@@ -1,5 +1,4 @@
 .career-quiz-sample {
-    background-color: rgba(255, 255, 255, 1);
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -7,18 +6,19 @@
 }
 
 .career-quiz-sample .overlap-group-wrapper {
-    background-color: rgba(255, 255, 255, 1);
     background: linear-gradient(180deg, rgb(130.69, 180.41, 159.53) 0%, rgb(131.87, 152.34, 181.13) 100%);
-    width: 1440px;
-    height: 1024px;
+    width: 100%;
+    height: 632px;
 }
 
 .career-quiz-sample .overlap-group {
+    background-color: rgba(255, 255, 255, 1);
     position: relative;
-    width: 1369px;
-    height: 928px;
-    top: 43px;
-    left: 33px;
+    margin: auto;
+    width: 95%;
+    border-radius: 40px;
+    top: 40px;
+    height: 552px;
     background-image: url(./img/rectangle-8.svg);
     background-size: 100% 100%;
 }
@@ -27,7 +27,7 @@
     position: absolute;
     width: 130px;
     top: 39px;
-    left: 86px;
+    left: 108px;
     font-family: "Inter-Bold", Helvetica;
     font-weight: 700;
     color: #7e92a4;
@@ -39,7 +39,7 @@
 .career-quiz-sample .black-white-simple {
     position: absolute;
     top: 29px;
-    left: 28px;
+    left: 50px;
     width: 52px;
     height: 55px;
     object-fit: cover;
@@ -67,81 +67,21 @@
     line-height: normal;
 }
 
-.career-quiz-sample .overlap {
-    position: absolute;
-    width: 1232px;
-    height: 70px;
-    top: 235px;
-    left: 54px;
-}
-
 .career-quiz-sample .rectangle {
-    width: 338px;
-    top: 0;
-    left: 694px;
     position: absolute;
-    height: 67px;
-    background-color: var(--green);
+    top: 200px;
+    left: 50px;
+    height: 50px;
     border-radius: 90px;
-}
-
-.career-quiz-sample .text-wrapper-2 {
-    position: absolute;
-    width: 269px;
-    top: 10px;
-    left: 528px;
     font-family: "Inter-Bold", Helvetica;
     font-weight: 700;
-    color: #ffffff;
-    font-size: 40px;
-    letter-spacing: -2.8px;
-    line-height: normal;
-}
-
-.career-quiz-sample .rectangle-2 {
-    width: 386px;
-    top: 2px;
-    left: 297px;
-    position: absolute;
-    height: 67px;
+    color: hsl(0, 0%, 100%);
     background-color: var(--green);
-    border-radius: 90px;
-}
-
-.career-quiz-sample .rectangle-3 {
-    width: 289px;
-    top: 3px;
-    left: 0;
-    position: absolute;
-    height: 67px;
-    background-color: var(--green);
-    border-radius: 90px;
-}
-
-.career-quiz-sample .text-wrapper-3 {
-    position: absolute;
-    width: 269px;
-    top: 8px;
-    left: 35px;
-    font-family: "Inter-Bold", Helvetica;
-    font-weight: 700;
-    color: #ffffff;
-    font-size: 40px;
-    letter-spacing: -2.8px;
+    font-size: 30px;
+    letter-spacing: -1.8px;
     line-height: normal;
-}
-
-.career-quiz-sample .text-wrapper-4 {
-    position: absolute;
-    width: 511px;
-    top: 8px;
-    left: 721px;
-    font-family: "Inter-Bold", Helvetica;
-    font-weight: 700;
-    color: #ffffff;
-    font-size: 40px;
-    letter-spacing: -2.8px;
-    line-height: normal;
+    margin-top: 25px;
+    padding: 10px;
 }
 
 .career-quiz-sample .text-wrapper-5 {
@@ -152,7 +92,7 @@
     font-family: "Inter-Bold", Helvetica;
     font-weight: 700;
     color: #ffffff;
-    font-size: 40px;
+    font-size: 30px;
     letter-spacing: -2.8px;
     line-height: normal;
 }
@@ -161,9 +101,15 @@
     position: absolute;
     width: 236px;
     height: 76px;
-    top: 758px;
+    top: 458px;
     left: 633px;
     border-radius: 40px;
+}
+
+.career-quiz-sample .info {
+    position: relative;
+    padding-top: 285px;
+    padding-left: 50px;
 }
 
 .career-quiz-sample .text-wrapper-6 {
@@ -196,7 +142,7 @@
 
 .career-quiz-sample .img {
     position: relative;
-    width: 52px;
+    width: 55px;
     height: 55px;
     object-fit: cover;
 }
@@ -240,14 +186,10 @@
 }
 
 .career-quiz-sample .p {
-    position: absolute;
-    width: 570px;
-    top: 347px;
-    left: 56px;
     font-family: "Inter-Regular", Helvetica;
     font-weight: 400;
     color: #374655;
-    font-size: 40px;
+    font-size: 30px;
     letter-spacing: -2px;
     line-height: normal;
 }
@@ -281,7 +223,7 @@
 }
 
 .career-quiz-sample .frame-2 {
-    top: 758px;
+    top: 458px;
     left: 379px;
     display: flex;
     width: 236px;
@@ -293,10 +235,4 @@
     position: absolute;
     background-color: var(--blue);
     border-radius: 40px;
-}
-
-.career-quiz-sample .x-2 {
-    position: relative;
-    width: 48px;
-    height: 48px;
 }

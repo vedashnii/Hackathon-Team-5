@@ -1,0 +1,1301 @@
+### 1. Healthcare and Wellness
+- **Registered Nurse**
+  - **Degree:** Bachelor’s
+  - **Average Salary Range:** ₹3,00,000 - ₹7,00,000
+  - **Description:** Provides patient care, administers medications, and collaborates with healthcare teams to improve health outcomes.
+
+- **Doctor**
+  - **Degree:** Doctor of Medicine (MD) or equivalent
+  - **Average Salary Range:** ₹10,00,000 - ₹30,00,000
+  - **Description:** Diagnoses and treats illnesses, provides medical advice, and delivers care to patients.
+
+- **Physical Therapist**
+  - **Degree:** Bachelor’s or Master’s in Physical Therapy
+  - **Average Salary Range:** ₹3,00,000 - ₹8,00,000
+  - **Description:** Helps patients improve movement and manage pain through rehabilitation and therapeutic exercises.
+
+- **Nutritionist**
+  - **Degree:** Bachelor’s or Master’s in Nutrition/Dietetics
+  - **Average Salary Range:** ₹2,50,000 - ₹7,00,000
+  - **Description:** Advises clients on diet and nutrition to promote health and manage diseases.
+
+- **Wellness Coach**
+  - **Degree:** Bachelor’s in Health Science or related field
+  - **Average Salary Range:** ₹3,00,000 - ₹6,00,000
+  - **Description:** Guides clients in achieving health goals through lifestyle changes and wellness strategies.
+
+### 2. Technology and IT Services
+- **Software Developer**
+  - **Degree:** Bachelor’s in Computer Science or related field
+  - **Average Salary Range:** ₹4,00,000 - ₹12,00,000
+  - **Description:** Designs, develops, and maintains software applications and systems.
+
+- **Systems Analyst**
+  - **Degree:** Bachelor’s in Information Technology or related field
+  - **Average Salary Range:** ₹5,00,000 - ₹10,00,000
+  - **Description:** Analyzes and designs information systems to improve efficiency and effectiveness.
+
+- **Database Administrator**
+  - **Degree:** Bachelor’s in Computer Science or related field
+  - **Average Salary Range:** ₹4,00,000 - ₹9,00,000
+  - **Description:** Manages and organizes data using database management systems.
+
+- **IT Manager**
+  - **Degree:** Bachelor’s or Master’s in IT/Management
+  - **Average Salary Range:** ₹8,00,000 - ₹20,00,000
+  - **Description:** Oversees IT departments, manages projects, and ensures the IT infrastructure meets business needs.
+
+- **E-Learning Specialist**
+  - **Degree:** Bachelor’s in Education or related field
+  - **Average Salary Range:** ₹3,00,000 - ₹7,00,000
+  - **Description:** Develops and implements online learning programs and technologies.
+
+### 3. Education and Training
+- **University Professor**
+  - **Degree:** PhD in a specific field
+  - **Average Salary Range:** ₹6,00,000 - ₹15,00,000
+  - **Description:** Teaches university courses, conducts research, and mentors students.
+
+- **High School Teacher**
+  - **Degree:** Bachelor’s in Education or specific subject
+  - **Average Salary Range:** ₹3,00,000 - ₹8,00,000
+  - **Description:** Educates students in various subjects and develops lesson plans.
+
+- **Corporate Trainer**
+  - **Degree:** Bachelor’s or Master’s in Human Resources or related field
+  - **Average Salary Range:** ₹4,00,000 - ₹10,00,000
+  - **Description:** Provides training programs to enhance employee skills and knowledge.
+
+- **Personal Coach**
+  - **Degree:** Certification in Coaching
+  - **Average Salary Range:** ₹2,50,000 - ₹6,00,000
+  - **Description:** Assists individuals in setting and achieving personal goals.
+
+- **Career Counselor**
+  - **Degree:** Bachelor’s or Master’s in Psychology or Counseling
+  - **Average Salary Range:** ₹3,00,000 - ₹8,00,000
+  - **Description:** Guides individuals in career planning and job searching.
+
+### 4. Finance and Investment
+- **Financial Advisor**
+  - **Degree:** Bachelor’s in Finance or related field
+  - **Average Salary Range:** ₹5,00,000 - ₹12,00,000
+  - **Description:** Provides financial planning and investment advice to clients.
+
+- **Investment Banker**
+  - **Degree:** Bachelor’s in Finance or MBA
+  - **Average Salary Range:** ₹8,00,000 - ₹25,00,000
+  - **Description:** Assists companies in raising capital and providing advisory services for mergers and acquisitions.
+
+- **Private Equity Analyst**
+  - **Degree:** Bachelor’s in Finance or related field
+  - **Average Salary Range:** ₹6,00,000 - ₹15,00,000
+  - **Description:** Analyzes investment opportunities in private equity markets.
+
+- **Portfolio Manager**
+  - **Degree:** Bachelor’s in Finance or MBA
+  - **Average Salary Range:** ₹8,00,000 - ₹20,00,000
+  - **Description:** Manages investment portfolios for clients and institutions.
+
+- **Financial Analyst**
+  - **Degree:** Bachelor’s in Finance or Business
+  - **Average Salary Range:** ₹4,00,000 - ₹10,00,000
+  - **Description:** Analyzes financial data to help businesses make informed decisions.
+
+### 5. Agriculture, Farming, and Fishery
+- **Farmer**
+  - **Degree:** No formal degree required, but a degree in Agricultural Science can be beneficial
+  - **Average Salary Range:** ₹1,20,000 - ₹5,00,000
+  - **Description:** Cultivates crops or raises livestock for food production.
+
+- **Agricultural Inspector**
+  - **Degree:** Bachelor’s in Agricultural Science or related field
+  - **Average Salary Range:** ₹3,00,000 - ₹6,00,000
+  - **Description:** Inspects agricultural products and operations to ensure compliance with regulations.
+
+- **Commercial Fisherman**
+  - **Degree:** No formal degree required
+  - **Average Salary Range:** ₹2,00,000 - ₹5,00,000
+  - **Description:** Catches fish and other seafood for commercial sale.
+
+- **Aquaculture Manager**
+  - **Degree:** Bachelor’s in Fisheries Science or related field
+  - **Average Salary Range:** ₹3,00,000 - ₹8,00,000
+  - **Description:** Oversees fish farming and aquatic resource management operations.
+
+- **Animal Breeder**
+  - **Degree:** Bachelor's in Animal Science or related field
+  - **Average Salary Range:** ₹3,00,000 - ₹7,00,000
+  - **Description:** Selects and breeds animals to produce desired traits for agricultural or commercial purposes.
+
+### 6. Manufacturing
+- **Industrial Engineer**
+  - **Degree:** Bachelor’s in Industrial Engineering
+  - **Average Salary Range:** ₹5,00,000 - ₹10,00,000
+  - **Description:** Optimizes complex processes and systems to improve efficiency.
+
+- **Manufacturing Technician**
+  - **Degree:** Associate’s or Diploma in Engineering/Manufacturing
+  - **Average Salary Range:** ₹2,50,000 - ₹5,00,000
+  - **Description:** Operates equipment and machinery on the manufacturing floor.
+
+- **Quality Control Analyst**
+  - **Degree:** Bachelor’s in Engineering or related field
+  - **Average Salary Range:** ₹3,00,000 - ₹6,00,000
+  - **Description:** Inspects products and processes to ensure quality standards are met.
+
+- **Production Manager**
+  - **Degree:** Bachelor’s in Engineering or Management
+  - **Average Salary Range:** ₹6,00,000 - ₹15,00,000
+  - **Description:** Oversees production processes and manages production staff.
+
+- **Mechanical Engineer**
+  - **Degree:** Bachelor’s in Mechanical Engineering
+  - **Average Salary Range:** ₹5,00,000 - ₹12,00,000
+  - **Description:** Designs and develops mechanical systems and products.
+
+### 7. Retail and E-commerce
+- **Store Manager**
+  - **Degree:** Bachelor’s in Business or Management
+  - **Average Salary Range:** ₹4,00,000 - ₹10,00,000
+  - **Description:** Manages store operations, staff, and customer service.
+
+- **Retail Salesperson**
+  - **Degree:** No formal degree required
+  - **Average Salary Range:** ₹1,80,000 - ₹3,50,000
+  - **Description:** Assists customers in purchasing products and provides information about merchandise.
+
+- **E-commerce Specialist**
+  - **Degree:** Bachelor’s in Marketing or related field
+  - **Average Salary Range:** ₹3,00,000 - ₹8,00,000
+  - **Description:** Manages online retail platforms and increases online sales.
+
+- **Purchasing Manager**
+  - **Degree:** Bachelor’s in Supply Chain Management or Business
+  - **Average Salary Range:** ₹5,00,000 - ₹12,00,000
+  - **Description:** Oversees procurement processes and vendor negotiations.
+
+- **Visual Merchandiser**
+  - **Degree:** Bachelor’s in Design or Marketing
+  - **Average Salary Range:** ₹2,50,000 - ₹6,00,000
+  - **Description:** Creates visually appealing displays to attract customers in retail environments.
+
+### 8. Hospitality, Travel, and Tourism
+- **Hotel Manager**
+  - **Degree:** Bachelor’s in Hospitality Management or Business
+  - **Average Salary Range:** ₹5,00,000 - ₹15,00,000
+  - **Description:** Oversees hotel operations, staff, and guest services.
+
+- **Tour Guide**
+  - **Degree:** No formal degree required, but knowledge of tourism and local history is beneficial
+  - **Average Salary Range:** ₹2,00,000 - ₹5,00,000
+  - **Description:** Leads and informs tourists during trips and excursions.
+
+- **Travel Agent**
+  - **Degree:** Bachelor’s in Travel and Tourism or related field
+  - **Average Salary Range:** ₹2,50,000 - ₹6,00,000
+  - **Description:** Plans and sells travel packages to clients.
+
+- **Chef**
+  - **Degree:** Culinary Arts Diploma or equivalent
+  - **Average Salary Range:** ₹3,00,000 - ₹10,00,000
+  - **Description:** Prepares meals and manages kitchen operations.
+
+- **Event Planner**
+  - **Degree:** Bachelor’s in Hospitality Management or related field
+  - **Average Salary Range:** ₹3,00,000 - ₹8,00,000
+  - **Description:** Coordinates events such as weddings, corporate functions, and parties.
+
+### 9. Real Estate
+- **Real Estate Agent**
+  - **Degree:** No formal degree required, but certification is needed
+  - **Average Salary Range:** ₹2,00,000 - ₹10,00,000 (commission-based)
+  - **Description:** Assists clients in buying, selling, or renting properties.
+
+- **Property Manager**
+  - **Degree:** Bachelor’s in Business or Real Estate
+  - **Average Salary Range:** ₹4,00,000 - ₹10,00,000
+  - **Description:** Manages rental properties and oversees tenant relations.
+
+- **Real Estate Appraiser**
+  - **Degree:** Bachelor’s in Real Estate or related field
+  - **Average Salary Range:** ₹3,00,000 - ₹7,00,000
+  - **Description:** Evaluates properties to determine their market value.
+
+- **Leasing Consultant**
+  - **Degree:** No formal degree required
+  - **Average Salary Range:** ₹2,00,000 - ₹5,00,000
+  - **Description:** Assists clients in leasing properties and provides property information.
+
+- **Mortgage Loan Officer**
+  - **Degree:** Bachelor’s in Finance or related field
+  - **Average Salary Range:** ₹4,00,000 - ₹10,00,000
+  - **Description:** Helps clients secure mortgage loans for purchasing properties.
+
+### 10. Transportation, Logistics, and Warehousing
+- **Logistics Manager**
+  - **Degree:** Bachelor’s in Logistics or Supply Chain Management
+  - **Average Salary Range:** ₹6,00,000 - ₹15,00,000
+  - **Description:** Manages supply chain operations and logistics processes.
+
+- **Truck Driver**
+  - **Degree:** No formal degree required; valid driving license is necessary
+  - **Average Salary Range:** ₹2,00,000 - ₹5,00,000
+  - **Description:** Transports goods via truck, following delivery schedules.
+
+- **Warehouse Supervisor**
+  - **Degree:** Bachelor’s in Business or Supply Chain Management
+  - **Average Salary Range:** ₹3,00,000 - ₹7,00,000
+  - **Description:** Oversees warehouse operations and manages staff.
+
+- **Supply Chain Analyst**
+  - **Degree:** Bachelor’s in Supply Chain Management or Business
+  - **Average Salary Range:** ₹4,00,000 - ₹10,00,000
+  - **Description:** Analyzes supply chain data to improve efficiency and reduce costs.
+
+- **Operations Manager**
+  - **Degree:** Bachelor’s or Master’s in Operations Management
+  - **Average Salary Range:** ₹5,00,000 - ₹12,00,000
+  - **Description:** Oversees day-to-day operations and ensures efficiency across departments.
+
+### 11. Government and Public Administration
+- **Public Administrator**
+  - **Degree:** Bachelor’s or Master’s in Public Administration
+  - **Average Salary Range:** ₹5,00,000 - ₹12,00,000
+  - **Description:** Manages public agencies and implements policies.
+
+- **Public Policy Analyst**
+  - **Degree:** Master’s in Public Policy or related field
+  - **Average Salary Range:** ₹4,00,000 - ₹10,00,000
+  - **Description:** Analyzes government policies and their impact on the public.
+
+- **Urban Planner**
+  - **Degree:** Master’s in Urban Planning
+  - **Average Salary Range:** ₹4,00,000 - ₹10,00,000
+  - **Description:** Develops plans for land use in urban areas to improve community structures and services.
+
+- **Social Worker**
+  - **Degree:** Bachelor’s or Master’s in Social Work
+  - **Average Salary Range:** ₹3,00,000 - ₹8,00,000
+  - **Description:** Helps individuals and communities improve their well-being.
+
+- **Government Relations Officer**
+  - **Degree:** Bachelor’s in Political Science or related field
+  - **Average Salary Range:** ₹4,00,000 - ₹9,00,000
+  - **Description:** Manages relationships between organizations and government entities.
+
+### 12. Energy
+- **Petroleum Engineer**
+  - **Degree:** Bachelor’s in Petroleum Engineering
+  - **Average Salary Range:** ₹6,00,000 - ₹15,00,000
+  - **Description:** Designs and develops methods for extracting oil and gas.
+
+- **Solar Panel Installer**
+  - **Degree:** No formal degree required, vocational training is beneficial
+  - **Average Salary Range:** ₹1,80,000 - ₹4,00,000
+  - **Description:** Installs solar panels on residential and commercial properties.
+
+- **Nuclear Power Reactor Operator**
+  - **Degree:** Associate’s degree in Nuclear Technology or related field
+  - **Average Salary Range:** ₹4,00,000 - ₹10,00,000
+  - **Description:** Operates and monitors nuclear reactors and associated equipment.
+
+- **Wind Turbine Technician**
+  - **Degree:** Associate’s degree in Renewable Energy or related field
+  - **Average Salary Range:** ₹2,50,000 - ₹6,00,000
+  - **Description:** Installs, maintains, and repairs wind turbines.
+
+- **Geologist**
+  - **Degree:** Bachelor’s or Master’s in Geology
+  - **Average Salary Range:** ₹4,00,000 - ₹10,00,000
+  - **Description:** Studies the Earth's materials and processes to find natural resources.
+
+### 13. Food and Beverage Services
+- **Restaurant Manager**
+  - **Degree:** Bachelor’s in Hospitality Management or Business
+  - **Average Salary Range:** ₹3,00,000 - ₹10,00,000
+  - **Description:** Oversees restaurant operations, staff, and customer service.
+
+- **Food Service Manager**
+  - **Degree:** Bachelor’s in Food Service Management or related field
+  - **Average Salary Range:** ₹3,00,000 - ₹8,00,000
+  - **Description:** Manages food service operations in establishments like schools and hospitals.
+
+- **Chef**
+  - **Degree:** Culinary Arts Diploma
+  - **Average Salary Range:** ₹3,00,000 - ₹12,00,000
+  - **Description:** Prepares gourmet meals and manages kitchen staff.
+
+- **Bartender**
+  - **Degree:** No formal degree required, but bartending certification is beneficial
+  - **Average Salary Range:** ₹1,80,000 - ₹4,00,000
+  - **Description:** Prepares and serves drinks, interacts with customers, and manages bar inventory.
+
+- **Sommelier**
+  - **Degree:** Certification in Wine Studies
+  - **Average Salary Range:** ₹3,00,000 - ₹7,00,000
+  - **Description:** Expert in wine and food pairings, advises customers on wine selections.
+
+### 14. Sports and Recreation
+- **Personal Trainer**
+  - **Degree:** Certification in Personal Training
+  - **Average Salary Range:** ₹2,00,000 - ₹5,00,000
+  - **Description:** Designs and implements fitness programs for clients.
+
+- **Athletic Coach**
+  - **Degree:** Bachelor’s in Sports Science or Physical Education
+  - **Average Salary Range:** ₹3,00,000 - ₹8,00,000
+  - **Description:** Trains and develops athletes in specific sports.
+
+- **Sports Agent**
+  - **Degree:** Bachelor’s in Sports Management or Business
+  - **Average Salary Range:** ₹5,00,000 - ₹15,00,000 (commission-based)
+  - **Description:** Represents athletes and negotiates contracts on their behalf.
+
+- **Sports Marketer**
+  - **Degree:** Bachelor’s in Marketing or Sports Management
+  - **Average Salary Range:** ₹3,00,000 - ₹10,00,000
+  - **Description:** Develops marketing strategies for sports teams and events.
+
+- **Physical Education Teacher**
+  - **Degree:** Bachelor’s in Physical Education
+  - **Average Salary Range:** ₹3,00,000 - ₹7,00,000
+  - **Description:** Teaches students about physical fitness and sports.
+
+### 15. Automotive and Aerospace
+- **Mechanical Engineer**
+  - **Degree:** Bachelor’s in Mechanical Engineering
+  - **Average Salary Range:** ₹5,00,000 - ₹12,00,000
+  - **Description:** Designs and tests mechanical systems, including vehicles.
+
+- **Automotive Technician**
+  - **Degree:** Diploma in Automotive Engineering or related field
+  - **Average Salary Range:** ₹2,00,000 - ₹5,00,000
+  - **Description:** Repairs and maintains vehicles.
+
+- **Aerospace Engineer**
+  - **Degree:** Bachelor’s in Aerospace Engineering
+  - **Average Salary Range:** ₹6,00,000 - ₹15,00,000
+  - **Description:** Designs and tests aircraft, spacecraft, and related systems.
+
+- **Aircraft Mechanic**
+  - **Degree:** Diploma in Aviation Maintenance
+  - **Average Salary Range:** ₹3,00,000 - ₹8,00,000
+  - **Description:** Inspects and repairs aircraft systems and components.
+
+- **Quality Assurance Inspector**
+  - **Degree:** Bachelor’s in Engineering or related field
+  - **Average Salary Range:** ₹3,00,000 - ₹7,00,000
+  - **Description:** Ensures products meet quality standards through inspections.
+
+### 16. Marketing, PR, and Communication
+- **Marketing Coordinator**
+  - **Degree:** Bachelor’s in Marketing or Business
+  - **Average Salary Range:** ₹3,00,000 - ₹8,00,000
+  - **Description:** Assists with marketing campaigns and promotional activities.
+
+- **PR Specialist**
+  - **Degree:** Bachelor’s in Public Relations or Communication
+  - **Average Salary Range:** ₹3,00,000 - ₹7,00,000
+  - **Description:** Manages an organization's public image and media relations.
+
+- **Advertising Manager**
+  - **Degree:** Bachelor’s in Marketing or Advertising
+  - **Average Salary Range:** ₹5,00,000 - ₹12,00,000
+  - **Description:** Oversees advertising campaigns and manages creative teams.
+
+- **Social Media Specialist**
+  - **Degree:** Bachelor’s in Marketing or Communication
+  - **Average Salary Range:** ₹3,00,000 - ₹8,00,000
+  - **Description:** Manages and creates content for social media platforms.
+
+- **Copywriter**
+  - **Degree:** Bachelor’s in English, Marketing, or related field
+  - **Average Salary Range:** ₹2,50,000 - ₹6,00,000
+  - **Description:** Writes persuasive content for advertising and marketing purposes.
+
+### 17. Media and Entertainment
+- **Journalist**
+  - **Degree:** Bachelor’s in Journalism or Communication
+  - **Average Salary Range:** ₹2,00,000 - ₹8,00,000
+  - **Description:** Researches, writes, and reports news stories for various media outlets.
+
+- **Film Director**
+  - **Degree:** Bachelor’s in Film Production or related field
+  - **Average Salary Range:** ₹5,00,000 - ₹20,00,000
+  - **Description:** Directs and oversees the creative aspects of film production.
+
+- **Broadcast Engineer**
+  - **Degree:** Bachelor’s in Broadcasting or Engineering
+  - **Average Salary Range:** ₹3,00,000 - ₹8,00,000
+  - **Description:** Operates and maintains equipment used in broadcasting.
+
+- **Animator**
+  - **Degree:** Bachelor’s in Animation or Graphic Design
+  - **Average Salary Range:** ₹3,00,000 - ₹8,00,000
+  - **Description:** Creates animations and visual effects for film, television, or video games.
+
+- **Music Composer**
+  - **Degree:** Bachelor’s in Music or Composition
+  - **Average Salary Range:** ₹3,00,000 - ₹10,00,000
+  - **Description:** Composes and arranges music for various projects.
+
+### 18. Legal Services and Law Enforcement
+- **Attorney**
+  - **Degree:** Bachelor’s in Law (LLB) and Bar Council registration
+  - **Average Salary Range:** ₹6,00,000 - ₹20,00,000
+  - **Description:** Represents clients in legal proceedings and provides legal advice.
+
+- **Paralegal**
+  - **Degree:** Bachelor’s in Paralegal Studies or related field
+  - **Average Salary Range:** ₹3,00,000 - ₹6,00,000
+  - **Description:** Assists lawyers in legal research, documentation, and case preparation.
+
+- **Police Officer**
+  - **Degree:** Bachelor’s in Criminal Justice or related field
+  - **Average Salary Range:** ₹3,00,000 - ₹7,00,000
+  - **Description:** Enforces laws, prevents crimes, and protects the public.
+
+- **Correctional Officer**
+  - **Degree:** No formal degree required, but training is necessary
+  - **Average Salary Range:** ₹2,00,000 - ₹5,00,000
+  - **Description:** Oversees individuals in correctional facilities and ensures safety and security.
+
+- **Forensic Scientist**
+  - **Degree:** Bachelor’s in Forensic Science or related field
+  - **Average Salary Range:** ₹4,00,000 - ₹10,00,000
+  - **Description:** Analyzes physical evidence from crime scenes to assist in investigations.
+
+### 19. Human Resources and Recruiting
+- **HR Manager**
+  - **Degree:** Bachelor’s or Master’s in Human Resources
+  - **Average Salary Range:** ₹6,00,000 - ₹15,00,000
+  - **Description:** Manages HR functions, including recruitment, employee relations, and compliance.
+
+- **Recruiter**
+  - **Degree:** Bachelor’s in Human Resources or related field
+  - **Average Salary Range:** ₹3,00,000 - ₹8,00,000
+  - **Description:** Sources, screens, and hires candidates for job openings.
+
+- **Employee Relations Manager**
+  - **Degree:** Bachelor’s in Human Resources or Business
+  - **Average Salary Range:** ₹4,00,000 - ₹10,00,000
+  - **Description:** Manages employee relations and addresses workplace issues.
+
+- **Payroll Specialist**
+  - **Degree:** Bachelor’s in Accounting or Business
+  - **Average Salary Range:** ₹3,00,000 - ₹6,00,000
+  - **Description:** Manages payroll processes and ensures compliance with labor regulations.
+
+- **Training and Development Specialist**
+  - **Degree:** Bachelor’s in Human Resources or Education
+  - **Average Salary Range:** ₹3,00,000 - ₹8,00,000
+  - **Description:** Develops training programs to enhance employee skills and performance.
+
+### 20. Arts and Design
+- **Graphic Designer**
+  - **Degree:** Bachelor’s in Graphic Design or Fine Arts
+  - **Average Salary Range:** ₹2,50,000 - ₹6,00,000
+  - **Description:** Creates visual content for various media using design software.
+
+- **Interior Designer**
+  - **Degree:** Bachelor’s in Interior Design
+  - **Average Salary Range:** ₹3,00,000 - ₹10,00,000
+  - **Description:** Designs and coordinates the interior spaces of residential and commercial buildings.
+
+- **Artist**
+  - **Degree:** Bachelor’s in Fine Arts or related field
+  - **Average Salary Range:** ₹2,00,000 - ₹8,00,000
+  - **Description:** Creates original artworks using various mediums.
+
+- **Illustrator**
+  - **Degree:** Bachelor’s in Fine Arts or Illustration
+  - **Average Salary Range:** ₹2,50,000 - ₹6,00,000
+  - **Description:** Creates illustrations for books, magazines, or advertising.
+
+- **Fashion Designer**
+  - **Degree:** Bachelor’s in Fashion Design
+  - **Average Salary Range:** ₹3,00,000 - ₹12,00,000
+  - **Description:** Designs clothing, accessories, and footwear.
+
+### 21. Science and Research
+- **Biochemist**
+  - **Degree:** Master’s or PhD in Biochemistry
+  - **Average Salary Range:** ₹5,00,000 - ₹12,00,000
+  - **Description:** Studies the chemical processes within and related to living organisms.
+
+- **Pharmaceutical Scientist**
+  - **Degree:** PhD in Pharmaceutical Sciences
+  - **Average Salary Range:** ₹6,00,000 - ₹15,00,000
+  - **Description:** Researches and develops new medications and drug formulations.
+
+- **Biomedical Engineer**
+  - **Degree:** Bachelor’s or Master’s in Biomedical Engineering
+  - **Average Salary Range:** ₹6,00,000 - ₹15,00,000
+  - **Description:** Designs medical equipment and develops healthcare technologies.
+
+- **Clinical Research Associate**
+  - **Degree:** Bachelor’s in Life Sciences or related field
+  - **Average Salary Range:** ₹4,00,000 - ₹10,00,000
+  - **Description:** Manages clinical trials and ensures compliance with regulatory standards.
+
+- **Molecular Biologist**
+  - **Degree:** Master’s or PhD in Molecular Biology
+  - **Average Salary Range:** ₹5,00,000 - ₹12,00,000
+  - **Description:** Studies the molecular mechanisms of biological processes.
+
+### 22. Architecture and Construction
+- **Architect**
+  - **Degree:** Bachelor’s in Architecture (B.Arch)
+  - **Average Salary Range:** ₹5,00,000 - ₹15,00,000
+  - **Description:** Designs buildings and structures, ensuring functionality and aesthetics.
+
+- **Construction Project Manager**
+  - **Degree:** Bachelor’s in Construction Management or Engineering
+  - **Average Salary Range:** ₹6,00,000 - ₹15,00,000
+  - **Description:** Oversees construction projects from planning to completion.
+
+- **Civil Engineer**
+  - **Degree:** Bachelor’s in Civil Engineering
+  - **Average Salary Range:** ₹5,00,000 - ₹12,00,000
+  - **Description:** Designs, constructs, and maintains infrastructure projects like roads and bridges.
+
+- **Building Inspector**
+  - **Degree:** Bachelor’s in Construction Management or related field
+  - **Average Salary Range:** ₹3,00,000 - ₹7,00,000
+  - **Description:** Inspects construction sites to ensure compliance with building codes and regulations.
+
+- **Landscape Architect**
+  - **Degree:** Bachelor’s or Master’s in Landscape Architecture
+  - **Average Salary Range:** ₹4,00,000 - ₹10,00,000
+  - **Description:** Designs outdoor spaces, parks, and landscapes for public and private use.
+
+### 23. Environment and Sustainability
+- **Environmental Scientist**
+  - **Degree:** Bachelor’s in Environmental Science or related field
+  - **Average Salary Range:** ₹4,00,000 - ₹10,00,000
+  - **Description:** Studies environmental issues and develops solutions to protect natural resources.
+
+- **Conservation Scientist**
+  - **Degree:** Bachelor’s in Forestry or Environmental Science
+  - **Average Salary Range:** ₹4,00,000 - ₹9,00,000
+  - **Description:** Manages and protects natural resources and ecosystems.
+
+- **Sustainability Consultant**
+  - **Degree:** Bachelor’s in Environmental Science or related field
+  - **Average Salary Range:** ₹5,00,000 - ₹12,00,000
+  - **Description:** Advises organizations on sustainable practices and strategies.
+
+- **Waste Management Officer**
+  - **Degree:** Bachelor’s in Environmental Engineering or related field
+  - **Average Salary Range:** ₹3,00,000 - ₹8,00,000
+  - **Description:** Manages waste disposal and recycling programs.
+
+- **Landscaper**
+  - **Degree:** No formal degree required, but knowledge of horticulture is beneficial
+  - **Average Salary Range:** ₹1,80,000 - ₹5,00,000
+  - **Description:** Designs and maintains outdoor spaces and gardens.
+
+### 24. Non-Profit and Philanthropy
+- **Fundraising Manager**
+  - **Degree:** Bachelor’s in Non-Profit Management or related field
+  - **Average Salary Range:** ₹4,00,000 - ₹10,00,000
+  - **Description:** Develops fundraising strategies and manages donor relations for non-profits.
+
+- **Volunteer Coordinator**
+  - **Degree:** Bachelor’s in Social Work or related field
+  - **Average Salary Range:** ₹2,50,000 - ₹6,00,000
+  - **Description:** Recruits and manages volunteers for non-profit organizations.
+
+- **Non-Profit Director**
+  - **Degree:** Bachelor’s or Master’s in Non-Profit Management or Business
+  - **Average Salary Range:** ₹6,00,000 - ₹15,00,000
+  - **Description:** Oversees the strategic direction and operations of a non-profit organization.
+
+- **Community Outreach Specialist**
+  - **Degree:** Bachelor’s in Social Work or Community Development
+  - **Average Salary Range:** ₹3,00,000 - ₹7,00,000
+  - **Description:** Engages with the community to promote programs and services.
+
+- **Social Worker**
+  - **Degree:** Bachelor’s or Master’s in Social Work
+  - **Average Salary Range:** ₹3,00,000 - ₹8,00,000
+  - **Description:** Provides support and resources to individuals and families in need.
+
+### 25. Security and Defense
+- **Security Guard**
+  - **Degree:** No formal degree required
+  - **Average Salary Range:** ₹1,80,000 - ₹3,50,000
+  - **Description:** Monitors and protects property and individuals.
+
+- **Cyber Security Analyst**
+  - **Degree:** Bachelor’s in Computer Science or Cybersecurity
+  - **Average Salary Range:** ₹4,00,000 - ₹12,00,000
+  - **Description:** Protects an organization’s information systems from cyber threats.
+
+- **Military Officer**
+  - **Degree:** Bachelor’s in Military Science or related field
+  - **Average Salary Range:** ₹5,00,000 - ₹15,00,000
+  - **Description:** Leads and manages military operations and personnel.
+
+- **Intelligence Analyst**
+  - **Degree:** Bachelor’s in Intelligence Studies or related field
+  - **Average Salary Range:** ₹4,00,000 - ₹10,00,000
+  - **Description:** Analyzes data to support national security decisions.
+
+- **Emergency Management Director**
+  - **Degree:** Bachelor’s in Emergency Management or Public Safety
+  - **Average Salary Range:** ₹6,00,000 - ₹12,00,000
+  - **Description:** Prepares for and responds to emergencies and disasters.
+
+### 26. Writing, Editing, and Publishing
+- **Writer**
+  - **Degree:** Bachelor’s in English, Journalism, or Creative Writing
+  - **Average Salary Range:** ₹2,00,000 - ₹8,00,000
+  - **Description:** Creates written content for various media, including articles, books, and scripts.
+
+- **Editor**
+  - **Degree:** Bachelor’s in English or Journalism
+  - **Average Salary Range:** ₹3,00,000 - ₹7,00,000
+  - **Description:** Edits written content for clarity, style, and accuracy.
+
+- **Publisher**
+  - **Degree:** Bachelor’s in Publishing or Business
+  - **Average Salary Range:** ₹4,00,000 - ₹10,00,000
+  - **Description:** Manages the publication of books, magazines, and other media.
+
+- **Proofreader**
+  - **Degree:** No formal degree required, but attention to detail is essential
+  - **Average Salary Range:** ₹2,00,000 - ₹5,00,000
+  - **Description:** Reviews written content for grammatical and typographical errors.
+
+- **Literary Agent**
+  - **Degree:** Bachelor’s in English or related field
+  - **Average Salary Range:** ₹3,00,000 - ₹8,00,000
+  - **Description:** Represents writers and helps them sell their work to publishers.
+
+### 27. Consulting and Business Services
+- **Management Consultant**
+  - **Degree:** Bachelor’s or Master’s in Business Administration
+  - **Average Salary Range:** ₹8,00,000 - ₹20,00,000
+  - **Description:** Advises organizations on improving their performance and addressing challenges.
+
+- **Business Analyst**
+  - **Degree:** Bachelor’s in Business or IT
+  - **Average Salary Range:** ₹4,00,000 - ₹10,00,000
+  - **Description:** Analyzes business processes and identifies areas for improvement.
+
+- **Project Manager**
+  - **Degree:** Bachelor’s in Management or Engineering
+  - **Average Salary Range:** ₹5,00,000 - ₹15,00,000
+  - **Description:** Plans, executes, and closes projects while managing teams and resources.
+
+- **Operations Consultant**
+  - **Degree:** Bachelor’s in Business or Engineering
+  - **Average Salary Range:** ₹6,00,000 - ₹15,00,000
+  - **Description:** Provides expertise to improve operational efficiency and effectiveness.
+
+- **Strategy Consultant**
+  - **Degree:** Bachelor’s or Master’s in Business Administration
+  - **Average Salary Range:** ₹8,00,000 - ₹20,00,000
+  - **Description:** Guides organizations on strategic planning and business growth.
+
+### 28. Consumer Goods and Services
+- **Product Manager**
+  - **Degree:** Bachelor’s in Business or Marketing
+  - **Average Salary Range:** ₹5,00,000 - ₹12,00,000
+  - **Description:** Oversees product development and marketing strategies.
+
+- **Brand Manager**
+  - **Degree:** Bachelor’s in Marketing or Business
+  - **Average Salary Range:** ₹6,00,000 - ₹15,00,000
+  - **Description:** Manages brand strategy to enhance brand perception and market share.
+
+- **Customer Service Representative**
+  - **Degree:** No formal degree required
+  - **Average Salary Range:** ₹1,80,000 - ₹4,00,000
+  - **Description:** Assists customers with inquiries and resolves issues.
+
+- **Sales Representative**
+  - **Degree:** Bachelor’s in Business or Marketing
+  - **Average Salary Range:** ₹2,50,000 - ₹8,00,000
+  - **Description:** Sells products or services to clients and manages accounts.
+
+- **Supply Chain Analyst**
+  - **Degree:** Bachelor’s in Supply Chain Management or Business
+  - **Average Salary Range:** ₹4,00,000 - ₹10,00,000
+  - **Description:** Analyzes data related to supply chain processes to enhance efficiency.
+
+### 29. Fitness, Sports, and Wellness
+- **Personal Trainer**
+  - **Degree:** Certification in Personal Training
+  - **Average Salary Range:** ₹2,00,000 - ₹5,00,000
+  - **Description:** Designs individualized fitness programs and provides coaching.
+
+- **Yoga Instructor**
+  - **Degree:** Certification in Yoga Instruction
+  - **Average Salary Range:** ₹2,00,000 - ₹5,00,000
+  - **Description:** Teaches yoga classes and promotes health and wellness.
+
+- **Wellness Coach**
+  - **Degree:** Certification in Wellness Coaching
+  - **Average Salary Range:** ₹3,00,000 - ₹6,00,000
+  - **Description:** Guides clients in achieving wellness goals through lifestyle changes.
+
+- **Dietitian**
+  - **Degree:** Bachelor’s or Master’s in Dietetics/Nutrition
+  - **Average Salary Range:** ₹3,00,000 - ₹8,00,000
+  - **Description:** Provides nutritional advice and creates meal plans for clients.
+
+- **Physical Therapist**
+  - **Degree:** Bachelor’s or Master’s in Physical Therapy
+  - **Average Salary Range:** ₹3,00,000 - ₹8,00,000
+  - **Description:** Assists patients in recovering from injury through therapeutic exercises.
+
+### 30. Digital Marketing and Social Media
+- **Digital Marketing Specialist**
+  - **Degree:** Bachelor’s in Marketing or Communication
+  - **Average Salary Range:** ₹3,00,000 - ₹8,00,000
+  - **Description:** Implements digital marketing strategies to increase brand visibility.
+
+- **SEO Specialist**
+  - **Degree:** Bachelor’s in Marketing or IT
+  - **Average Salary Range:** ₹3,00,000 - ₹8,00,000
+  - **Description:** Optimizes websites to improve search engine rankings.
+
+- **Social Media Manager**
+  - **Degree:** Bachelor’s in Marketing or Communication
+  - **Average Salary Range:** ₹4,00,000 - ₹10,00,000
+  - **Description:** Manages social media accounts and develops online presence strategies.
+
+- **Content Strategist**
+  - **Degree:** Bachelor’s in Marketing, Communication, or related field
+  - **Average Salary Range:** ₹4,00,000 - ₹10,00,000
+  - **Description:** Develops content strategies to meet marketing goals.
+
+- **Online Campaign Manager**
+  - **Degree:** Bachelor’s in Marketing or Business
+  - **Average Salary Range:** ₹4,00,000 - ₹10,00,000
+  - **Description:** Plans and executes online marketing campaigns to promote products or services.
+
+### 31. Telecommunications and Networking
+- **Network Administrator**
+  - **Degree:** Bachelor’s in Computer Science or IT
+  - **Average Salary Range:** ₹4,00,000 - ₹10,00,000
+  - **Description:** Manages and maintains computer networks for organizations.
+
+- **Telecommunications Specialist**
+  - **Degree:** Bachelor’s in Telecommunications or Engineering
+  - **Average Salary Range:** ₹4,00,000 - ₹10,00,000
+  - **Description:** Designs and manages telecommunications systems and networks.
+
+- **Network Engineer**
+  - **Degree:** Bachelor’s in Computer Science or Networking
+  - **Average Salary Range:** ₹4,00,000 - ₹12,00,000
+  - **Description:** Designs and implements networking solutions for organizations.
+
+- **IT Support Specialist**
+  - **Degree:** Associate’s or Bachelor’s in IT
+  - **Average Salary Range:** ₹2,50,000 - ₹6,00,000
+  - **Description:** Provides technical support and troubleshooting for IT systems.
+
+- **Systems Analyst**
+  - **Degree:** Bachelor’s in Information Systems or IT
+  - **Average Salary Range:** ₹4,00,000 - ₹10,00,000
+  - **Description:** Analyzes and improves IT systems for organizations.
+
+### 32. Engineering and Industrial Automation
+- **Automation Engineer**
+  - **Degree:** Bachelor’s in Automation Engineering or related field
+  - **Average Salary Range:** ₹5,00,000 - ₹12,00,000
+  - **Description:** Designs and implements automated systems for manufacturing processes.
+
+- **Robotics Engineer**
+  - **Degree:** Bachelor’s in Robotics or Mechanical Engineering
+  - **Average Salary Range:** ₹6,00,000 - ₹15,00,000
+  - **Description:** Designs and develops robotic systems for various applications.
+
+- **Industrial Engineer**
+  - **Degree:** Bachelor’s in Industrial Engineering
+  - **Average Salary Range:** ₹5,00,000 - ₹12,00,000
+  - **Description:** Optimizes production processes and improves efficiency.
+
+- **Production Manager**
+  - **Degree:** Bachelor’s in Engineering or Management
+  - **Average Salary Range:** ₹6,00,000 - ₹15,00,000
+  - **Description:** Oversees production processes and manages production teams.
+
+- **Quality Control Analyst**
+  - **Degree:** Bachelor’s in Engineering or Science
+  - **Average Salary Range:** ₹3,00,000 - ₹8,00,000
+  - **Description:** Ensures products meet quality standards through inspections and testing.
+
+### 33. Import and Export Trade
+- **Import/Export Specialist**
+  - **Degree:** Bachelor’s in International Trade or Business
+  - **Average Salary Range:** ₹4,00,000 - ₹10,00,000
+  - **Description:** Manages import and export transactions and ensures compliance with regulations.
+
+- **Customs Broker**
+  - **Degree:** No formal degree required but certification is necessary
+  - **Average Salary Range:** ₹3,00,000 - ₹7,00,000
+  - **Description:** Helps clients navigate customs regulations and facilitate the import/export process.
+
+- **International Trade Specialist**
+  - **Degree:** Bachelor’s in International Business or Trade
+  - **Average Salary Range:** ₹5,00,000 - ₹12,00,000
+  - **Description:** Advises organizations on international trade regulations and strategies.
+
+- **Logistics Coordinator**
+  - **Degree:** Bachelor’s in Supply Chain Management or related field
+  - **Average Salary Range:** ₹3,00,000 - ₹8,00,000
+  - **Description:** Manages logistics and supply chain activities for import/export operations.
+
+- **Supply Chain Manager**
+  - **Degree:** Bachelor’s in Supply Chain Management or Business
+  - **Average Salary Range:** ₹6,00,000 - ₹15,00,000
+  - **Description:** Oversees supply chain processes and manages relationships with suppliers and distributors.
+
+### 34. Mining and Metals
+- **Mining Engineer**
+  - **Degree:** Bachelor’s in Mining Engineering
+  - **Average Salary Range:** ₹5,00,000 - ₹12,00,000
+  - **Description:** Designs and operates mines to extract minerals and resources.
+
+- **Geologist**
+  - **Degree:** Bachelor’s or Master’s in Geology
+  - **Average Salary Range:** ₹4,00,000 - ₹10,00,000
+  - **Description:** Studies Earth's processes and materials, often in relation to mineral extraction.
+
+- **Metallurgical Engineer**
+  - **Degree:** Bachelor’s in Metallurgical Engineering
+  - **Average Salary Range:** ₹5,00,000 - ₹12,00,000
+  - **Description:** Works with metals to develop and improve metal products and processes.
+
+- **Safety Officer**
+  - **Degree:** Bachelor’s in Safety Management or Engineering
+  - **Average Salary Range:** ₹3,00,000 - ₹7,00,000
+  - **Description:** Ensures workplace safety and compliance with regulations in mining operations.
+
+- **Drilling Engineer**
+  - **Degree:** Bachelor’s in Petroleum or Mechanical Engineering
+  - **Average Salary Range:** ₹5,00,000 - ₹12,00,000
+  - **Description:** Designs and implements drilling plans for resource extraction.
+
+### 35. Property Management and Facilities Services
+- **Property Manager**
+  - **Degree:** Bachelor’s in Real Estate or Business
+  - **Average Salary Range:** ₹4,00,000 - ₹10,00,000
+  - **Description:** Manages rental properties and oversees tenant relations.
+
+- **Maintenance Technician**
+  - **Degree:** No formal degree required, but technical training is beneficial
+  - **Average Salary Range:** ₹2,00,000 - ₹5,00,000
+  - **Description:** Performs maintenance and repairs on buildings and facilities.
+
+- **Facilities Manager**
+  - **Degree:** Bachelor’s in Facilities Management or Business
+  - **Average Salary Range:** ₹6,00,000 - ₹12,00,000
+  - **Description:** Oversees facility operations, maintenance, and safety.
+
+- **Leasing Consultant**
+  - **Degree:** No formal degree required
+  - **Average Salary Range:** ₹2,00,000 - ₹5,00,000
+  - **Description:** Assists clients in leasing properties and provides property information.
+
+- **Building Inspector**
+  - **Degree:** Bachelor’s in Construction Management or related field
+  - **Average Salary Range:** ₹3,00,000 - ₹7,00,000
+  - **Description:** Inspects buildings to ensure compliance with codes and regulations.
+
+### 36. Cosmetics and Beauty Industry
+- **Cosmetologist**
+  - **Degree:** Diploma in Cosmetology
+  - **Average Salary Range:** ₹2,00,000 - ₹6,00,000
+  - **Description:** Provides beauty treatments and services, including hair, skin, and makeup.
+
+- **Esthetician**
+  - **Degree:** Diploma in Esthetics
+  - **Average Salary Range:** ₹2,00,000 - ₹5,00,000
+  - **Description:** Specializes in skin care treatments and beauty techniques.
+
+- **Beauty Product Developer**
+  - **Degree:** Bachelor’s in Cosmetic Science or Chemistry
+  - **Average Salary Range:** ₹4,00,000 - ₹10,00,000
+  - **Description:** Develops and tests new beauty products for the market.
+
+- **Salon Manager**
+  - **Degree:** Bachelor’s in Business or Cosmetology
+  - **Average Salary Range:** ₹4,00,000 - ₹8,00,000
+  - **Description:** Manages daily operations of a beauty salon.
+
+- **Makeup Artist**
+  - **Degree:** Certification in Makeup Artistry
+  - **Average Salary Range:** ₹2,00,000 - ₹8,00,000
+  - **Description:** Applies makeup for clients in various settings, including fashion, film, and weddings.
+
+### 37. Photography and Videography
+- **Photographer**
+  - **Degree:** No formal degree required, but training is beneficial
+  - **Average Salary Range:** ₹2,00,000 - ₹8,00,000
+  - **Description:** Captures images for various purposes, including events, portraits, and commercial projects.
+
+- **Video Editor**
+  - **Degree:** Bachelor’s in Film or Media Studies
+  - **Average Salary Range:** ₹2,50,000 - ₹6,00,000
+  - **Description:** Edits video footage to create cohesive and engaging content.
+
+- **Cinematographer**
+  - **Degree:** Bachelor’s in Film Production or related field
+  - **Average Salary Range:** ₹5,00,000 - ₹15,00,000
+  - **Description:** Responsible for capturing the visual aspects of films and videos.
+
+- **Film Director**
+  - **Degree:** Bachelor’s in Film Production or related field
+  - **Average Salary Range:** ₹5,00,000 - ₹20,00,000
+  - **Description:** Directs film productions and coordinates the creative aspects.
+
+- **Art Director**
+  - **Degree:** Bachelor’s in Fine Arts or Design
+  - **Average Salary Range:** ₹4,00,000 - ₹10,00,000
+  - **Description:** Oversees the visual style and artistic direction of projects.
+
+### 38. Veterinary and Animal Care
+- **Veterinarian**
+  - **Degree:** Doctor of Veterinary Medicine (DVM)
+  - **Average Salary Range:** ₹6,00,000 - ₹15,00,000
+  - **Description:** Provides medical care to animals and diagnoses illnesses.
+
+- **Veterinary Technician**
+  - **Degree:** Associate’s in Veterinary Technology
+  - **Average Salary Range:** ₹2,50,000 - ₹6,00,000
+  - **Description:** Assists veterinarians in providing medical care to animals.
+
+- **Pet Groomer**
+  - **Degree:** Certification in Pet Grooming
+  - **Average Salary Range:** ₹1,80,000 - ₹4,00,000
+  - **Description:** Cleans and styles pets, focusing on hygiene and appearance.
+
+- **Zookeeper**
+  - **Degree:** Bachelor’s in Zoology or Animal Care
+  - **Average Salary Range:** ₹2,50,000 - ₹6,00,000
+  - **Description:** Cares for animals in a zoo environment and educates the public.
+
+- **Animal Shelter Manager**
+  - **Degree:** Bachelor’s in Animal Science or related field
+  - **Average Salary Range:** ₹3,00,000 - ₹8,00,000
+  - **Description:** Oversees operations of animal shelters and rehabilitation services.
+
+### 39. Event Planning and Services
+- **Event Planner**
+  - **Degree:** Bachelor’s in Event Management or Hospitality
+  - **Average Salary Range:** ₹3,00,000 - ₹8,00,000
+  - **Description:** Plans and coordinates events, from weddings to corporate functions.
+
+- **Wedding Planner**
+  - **Degree:** Certification in Wedding Planning
+  - **Average Salary Range:** ₹2,50,000 - ₹7,00,000
+  - **Description:** Specializes in organizing weddings and ensuring details are executed flawlessly.
+
+- **Catering Manager**
+  - **Degree:** Bachelor’s in Hospitality Management or Culinary Arts
+  - **Average Salary Range:** ₹4,00,000 - ₹10,00,000
+  - **Description:** Manages catering operations and oversees food service for events.
+
+- **Party Planner**
+  - **Degree:** Certification in Event Planning
+  - **Average Salary Range:** ₹2,00,000 - ₹5,00,000
+  - **Description:** Organizes and coordinates parties and private events.
+
+- **Event Marketing Specialist**
+  - **Degree:** Bachelor’s in Marketing or Event Management
+  - **Average Salary Range:** ₹3,00,000 - ₹8,00,000
+  - **Description:** Develops marketing strategies to promote events and increase attendance.
+
+### 40. Maritime and Shipbuilding
+- **Ship Engineer**
+  - **Degree:** Bachelor’s in Marine Engineering
+  - **Average Salary Range:** ₹6,00,000 - ₹15,00,000
+  - **Description:** Operates and maintains the machinery on board ships.
+
+- **Marine Architect**
+  - **Degree:** Bachelor’s in Naval Architecture
+  - **Average Salary Range:** ₹6,00,000 - ₹15,00,000
+  - **Description:** Designs and oversees the construction of marine vessels.
+
+- **Ship Captain**
+  - **Degree:** Bachelor’s in Nautical Science or Marine Engineering
+  - **Average Salary Range:** ₹8,00,000 - ₹20,00,000
+  - **Description:** Commands and navigates a ship and ensures safety at sea.
+
+- **Maritime Engineer**
+  - **Degree:** Bachelor’s in Marine Engineering
+  - **Average Salary Range:** ₹5,00,000 - ₹12,00,000
+  - **Description:** Designs and develops ships and marine systems.
+
+- **Shipbuilder**
+  - **Degree:** No formal degree required, vocational training is beneficial
+  - **Average Salary Range:** ₹2,50,000 - ₹6,00,000
+  - **Description:** Constructs and repairs ships and marine vessels.
+
+### 41. Gambling & Casinos
+- **Casino Dealer**
+  - **Degree:** No formal degree required, but training is necessary
+  - **Average Salary Range:** ₹1,80,000 - ₹4,00,000
+  - **Description:** Facilitates card games and other casino games, ensuring fair play.
+
+- **Slot Operations Manager**
+  - **Degree:** Bachelor’s in Hospitality Management or Business
+  - **Average Salary Range:** ₹4,00,000 - ₹10,00,000
+  - **Description:** Manages slot machine operations and ensures compliance with regulations.
+
+- **Gaming Surveillance Officer**
+  - **Degree:** No formal degree required, but experience in security is beneficial
+  - **Average Salary Range:** ₹2,00,000 - ₹5,00,000
+  - **Description:** Monitors gaming activities to prevent cheating and ensure fairness.
+
+- **Casino Host**
+  - **Degree:** Bachelor’s in Hospitality Management or related field
+  - **Average Salary Range:** ₹3,00,000 - ₹8,00,000
+  - **Description:** Provides personalized service to high-value guests in casinos.
+
+- **Casino Manager**
+  - **Degree:** Bachelor’s in Business or Hospitality Management
+  - **Average Salary Range:** ₹6,00,000 - ₹15,00,000
+  - **Description:** Oversees casino operations and manages staff.
+
+### 42. Languages and Translation Services
+- **Translator**
+  - **Degree:** Bachelor’s in Translation or Linguistics
+  - **Average Salary Range:** ₹2,50,000 - ₹6,00,000
+  - **Description:** Translates written content from one language to another.
+
+- **Interpreter**
+  - **Degree:** Bachelor’s in Interpretation or Linguistics
+  - **Average Salary Range:** ₹2,50,000 - ₹6,00,000
+  - **Description:** Provides real-time translation of spoken language during events or meetings.
+
+- **Language Teacher**
+  - **Degree:** Bachelor’s in Education or Language Studies
+  - **Average Salary Range:** ₹3,00,000 - ₹8,00,000
+  - **Description:** Teaches languages to students in schools or language institutes.
+
+- **Localization Specialist**
+  - **Degree:** Bachelor’s in Language Studies or Localization
+  - **Average Salary Range:** ₹3,00,000 - ₹7,00,000
+  - **Description:** Adapts content for different languages and cultures in products and services.
+
+- **Linguist**
+  - **Degree:** Bachelor’s or Master’s in Linguistics
+  - **Average Salary Range:** ₹4,00,000 - ₹10,00,000
+  - **Description:** Studies language structure and development, often involved in research or education.
+
+### 43. Consumer Electronics
+- **Electronics Engineer**
+  - **Degree:** Bachelor’s in Electronics Engineering
+  - **Average Salary Range:** ₹5,00,000 - ₹12,00,000
+  - **Description:** Designs and develops electronic devices and systems.
+
+- **Audio Engineer**
+  - **Degree:** Bachelor’s in Audio Engineering or related field
+  - **Average Salary Range:** ₹3,00,000 - ₹8,00,000
+  - **Description:** Works with audio equipment to produce sound for recordings and live events.
+
+- **Product Manager**
+  - **Degree:** Bachelor’s in Marketing or Business
+  - **Average Salary Range:** ₹5,00,000 - ₹12,00,000
+  - **Description:** Manages the development and marketing of consumer electronic products.
+
+- **Quality Assurance Tester**
+  - **Degree:** Bachelor’s in Computer Science or Engineering
+  - **Average Salary Range:** ₹3,00,000 - ₹8,00,000
+  - **Description:** Tests electronic products to ensure they meet quality standards.
+
+- **Sales Representative**
+  - **Degree:** Bachelor’s in Business or Marketing
+  - **Average Salary Range:** ₹2,50,000 - ₹8,00,000
+  - **Description:** Sells consumer electronics to customers and manages client relationships.
+
+### 44. Brewing and Winemaking
+- **Brewer**
+  - **Degree:** Bachelor’s in Brewing Science or related field
+  - **Average Salary Range:** ₹3,00,000 - ₹8,00,000
+  - **Description:** Oversees the brewing process of beer production.
+
+- **Winemaker**
+  - **Degree:** Bachelor’s in Viticulture or Enology
+  - **Average Salary Range:** ₹4,00,000 - ₹10,00,000
+  - **Description:** Produces wine by overseeing the fermentation and aging processes.
+
+- **Cicerone**
+  - **Degree:** Certification in Beer Service
+  - **Average Salary Range:** ₹2,50,000 - ₹6,00,000
+  - **Description:** Beer expert who advises on beer selections and pairings.
+
+- **Viticulturist**
+  - **Degree:** Bachelor’s in Viticulture or Horticulture
+  - **Average Salary Range:** ₹3,00,000 - ₹8,00,000
+  - **Description:** Studies and manages grape cultivation for winemaking.
+
+- **Wine Taster**
+  - **Degree:** Certification in Wine Tasting or related field
+  - **Average Salary Range:** ₹2,50,000 - ₹6,00,000
+  - **Description:** Evaluates wines for taste, aroma, and quality.
+
+### 45. Graphic Novels and Comics
+- **Comic Artist**
+  - **Degree:** Bachelor’s in Fine Arts or Illustration
+  - **Average Salary Range:** ₹2,50,000 - ₹6,00,000
+  - **Description:** Creates illustrations and artwork for comics and graphic novels.
+
+- **Illustrator**
+  - **Degree:** Bachelor’s in Fine Arts or Illustration
+  - **Average Salary Range:** ₹2,50,000 - ₹6,00,000
+  - **Description:** Produces visual representations to accompany written content.
+
+- **Writer**
+  - **Degree:** Bachelor’s in English, Creative Writing, or related field
+  - **Average Salary Range:** ₹2,00,000 - ₹8,00,000
+  - **Description:** Creates scripts and stories for comics and graphic novels.
+
+- **Graphic Designer**
+  - **Degree:** Bachelor’s in Graphic Design or Fine Arts
+  - **Average Salary Range:** ₹2,50,000 - ₹6,00,000
+  - **Description:** Designs visual content for various media using design software.
+
+- **Editor**
+  - **Degree:** Bachelor’s in English, Journalism, or related field
+  - **Average Salary Range:** ₹3,00,000 - ₹7,00,000
+  - **Description:** Edits and refines comic scripts and artwork for publication.
+
+### 46. Tech Startups
+- **Software Engineer**
+  - **Degree:** Bachelor’s in Computer Science or Engineering
+  - **Average Salary Range:** ₹5,00,000 - ₹12,00,000
+  - **Description:** Develops and maintains software applications for startups.
+
+- **Product Manager**
+  - **Degree:** Bachelor’s in Business or Engineering
+  - **Average Salary Range:** ₹5,00,000 - ₹12,00,000
+  - **Description:** Oversees the development and marketing of the startup's products.
+
+- **Data Scientist**
+  - **Degree:** Master’s in Data Science, Statistics, or related field
+  - **Average Salary Range:** ₹8,00,000 - ₹20,00,000
+  - **Description:** Analyzes data to inform business decisions and strategies.
+
+- **UX Designer**
+  - **Degree:** Bachelor’s in Design or Human-Computer Interaction
+  - **Average Salary Range:** ₹4,00,000 - ₹10,00,000
+  - **Description:** Designs user-friendly interfaces and experiences for software applications.
+
+- **Growth Hacker**
+  - **Degree:** Bachelor’s in Marketing or Business
+  - **Average Salary Range:** ₹4,00,000 - ₹10,00,000
+  - **Description:** Focuses on innovative marketing strategies to drive user growth for startups.
+
+### 47. Music Production
+- **Music Producer**
+  - **Degree:** Bachelor’s in Music Production or related field
+  - **Average Salary Range:** ₹5,00,000 - ₹15,00,000
+  - **Description:** Oversees the production of music recordings and manages the recording process.
+
+- **Sound Engineer**
+  - **Degree:** Bachelor’s in Audio Engineering or Music Technology
+  - **Average Salary Range:** ₹3,00,000 - ₹8,00,000
+  - **Description:** Manages audio equipment and ensures high-quality sound during recordings.
+
+- **Composer**
+  - **Degree:** Bachelor’s in Music Composition
+  - **Average Salary Range:** ₹4,00,000 - ₹10,00,000
+  - **Description:** Creates original music scores for films, games, and other media.
+
+- **Music Teacher**
+  - **Degree:** Bachelor’s in Music Education
+  - **Average Salary Range:** ₹3,00,000 - ₹8,00,000
+  - **Description:** Teaches music theory and performance to students of various ages.
+
+- **Session Musician**
+  - **Degree:** No formal degree required, but proficiency in an instrument is essential
+  - **Average Salary Range:** ₹2,00,000 - ₹6,00,000
+  - **Description:** Performs music for recordings and live performances as a hired musician.
+
+### 48. Textiles and Fashion Industry
+- **Fashion Designer**
+  - **Degree:** Bachelor’s in Fashion Design
+  - **Average Salary Range:** ₹3,00,000 - ₹12,00,000
+  - **Description:** Designs clothing, accessories, and footwear.
+
+- **Textile Designer**
+  - **Degree:** Bachelor’s in Textile Design or Fashion
+  - **Average Salary Range:** ₹3,00,000 - ₹8,00,000
+  - **Description:** Creates patterns and designs for textiles and fabrics.
+
+- **Buyer**
+  - **Degree:** Bachelor’s in Fashion Merchandising or Business
+  - **Average Salary Range:** ₹4,00,000 - ₹10,00,000
+  - **Description:** Purchases clothing and accessories for retail stores.
+
+- **Fashion Photographer**
+  - **Degree:** Bachelor’s in Photography or Fine Arts
+  - **Average Salary Range:** ₹2,50,000 - ₹6,00,000
+  - **Description:** Captures images for fashion campaigns and editorial spreads.
+
+- **Visual Merchandiser**
+  - **Degree:** Bachelor’s in Fashion Merchandising or Design
+  - **Average Salary Range:** ₹3,00,000 - ₹8,00,000
+  - **Description:** Creates visual displays that attract customers in retail settings.
+
+### 49. International Affairs and Policy
+- **Diplomat**
+  - **Degree:** Bachelor’s in International Relations or Political Science
+  - **Average Salary Range:** ₹8,00,000 - ₹20,00,000
+  - **Description:** Represents a country's interests abroad and manages diplomatic relations.
+
+- **Foreign Service Officer**
+  - **Degree:** Bachelor’s in International Relations or related field
+  - **Average Salary Range:** ₹6,00,000 - ₹15,00,000
+  - **Description:** Works in embassies or consulates to manage diplomatic missions.
+
+- **Policy Analyst**
+  - **Degree:** Master’s in Public Policy or International Relations
+  - **Average Salary Range:** ₹4,00,000 - ₹10,00,000
+  - **Description:** Analyzes policies and provides recommendations to policymakers.
+
+- **International Relations Specialist**
+  - **Degree:** Master’s in International Relations
+  - **Average Salary Range:** ₹5,00,000 - ₹12,00,000
+  - **Description:** Studies global issues and advises organizations on international policies.
+
+- **Immigration Officer**
+  - **Degree:** Bachelor’s in Immigration Law or related field
+  - **Average Salary Range:** ₹3,00,000 - ₹7,00,000
+  - **Description:** Processes immigration applications and ensures compliance with immigration laws.
+
+### 50. Office Supplies and Equipment
+- **Office Manager**
+  - **Degree:** Bachelor’s in Business Administration or Management
+  - **Average Salary Range:** ₹4,00,000 - ₹10,00,000
+  - **Description:** Oversees daily office operations and manages staff.
+
+- **Procurement Officer**
+  - **Degree:** Bachelor’s in Supply Chain Management or Business
+  - **Average Salary Range:** ₹4,00,000 - ₹10,00,000
+  - **Description:** Manages purchasing processes and vendor contracts for office supplies.
+
+- **Sales Manager**
+  - **Degree:** Bachelor’s in Business or Marketing
+  - **Average Salary Range:** ₹6,00,000 - ₹15,00,000
+  - **Description:** Leads the sales team and develops strategies to meet sales targets.
+
+- **Warehouse Supervisor**
+  - **Degree:** Bachelor’s in Supply Chain Management or related field
+  - **Average Salary Range:** ₹3,00,000 - ₹7,00,000
+  - **Description:** Oversees warehouse operations and ensures efficiency in storage and distribution.
+
+- **Customer Service Representative**
+  - **Degree:** No formal degree required
+  - **Average Salary Range:** ₹1,80,000 - ₹4,00,000
+  - **Description:** Assists customers with inquiries and provides support for office supplies and equipment.
+
+This overview provides a comprehensive snapshot of various job roles, their educational requirements, salary ranges, and brief descriptions.

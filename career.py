@@ -1,21 +1,23 @@
-import csv, random
+import json, random
 
 unseen = []
 favorites = []
 rejects = []
-with open('careers.csv', newline='') as careers:
-    reader = csv.reader(careers, delimiter=',', quotechar='"')
-    unseen = list(reader)[1:]
+
+data = dict()
+with open('careers.json', newline='') as careers:
+    data = json.load(careers)
+    unseen = list(data.keys())
 
 current = ""
 
 def init():
-    global unseen, favorites, rejects, current
+    global unseen, favorites, rejects, current, data
     current = random.choice(unseen)
-    return current
+    return data.get(current)
 
 def newCareer(prevReject):
-    global unseen, favorites, rejects, current
+    global unseen, favorites, rejects, current, data
 
     if (len(unseen) > 1):
         if prevReject:
@@ -28,6 +30,6 @@ def newCareer(prevReject):
             print("Favorites: ", favorites)
         
         current = random.choice(unseen)
-        return current
+        return data.get(current)
     else:
         return "END"

@@ -5,7 +5,9 @@
   justify-content: center;
   width: 100%;
 }
-
+a { 
+  color: #ffffff;
+}
 .home-page .div {
   background-color: #ffffff;
   width: 100%;
@@ -16,7 +18,7 @@
 .home-page .overlap {
   position: absolute;
   width: 100%;
-  height: 623px;
+  height: 523px;
   top: 0;
   left: 0;
   background: linear-gradient(180deg, rgb(130.69, 180.41, 159.53) 0%, rgb(131.87, 152.34, 181.13) 100%);
@@ -25,22 +27,22 @@
 .home-page .getting-job-ready-it {
   position: absolute;
   width: 75%;
-  top: 250px;
+  top: 150px;
   left: 90px;
   font-family: "Inter", Helvetica;
   font-weight: 700;
   color: #ffffff;
-  font-size: 120px;
+  font-size: 110px;
   letter-spacing: -8.4px;
   line-height: normal;
 }
 
 .home-page .overlap-group {
-  position: absolute;
-  width: 275px;
+  position: relative;
   height: 43px;
   top: 23px;
-  left: 1154px;
+  float: right;
+  margin-right: 160px;
 }
 
 .home-page .text-wrapper {
@@ -120,7 +122,7 @@
   position: absolute;
   width: 807px;
   height: 155px;
-  top: 670px;
+  top: 570px;
   left: 74px;
 }
 
@@ -272,7 +274,7 @@
 }
 
 .home-page .text-wrapper-10 {
-  top: 671px;
+  top: 571px;
   left: 891px;
   position: absolute;
   width: 95px;
@@ -289,7 +291,7 @@
   position: absolute;
   width: 661px;
   height: 448px;
-  top: 985px;
+  top: 785px;
   left: 59px;
 }
 
@@ -328,7 +330,7 @@
   position: absolute;
   width: 350px;
   height: 126px;
-  top: 695px;
+  top: 595px;
   left: 998px;
 }
 
@@ -377,14 +379,14 @@
   position: absolute;
   width: 711px;
   height: 511px;
-  top: 953px;
-  left: 729px;
+  top: 853px;
+  left: 660px;
   object-fit: cover;
 }
 
 .home-page .overlap-5 {
   position: absolute;
-  width: 1440px;
+  width: 100%;
   height: 252px;
   top: 1573px;
   left: 0;

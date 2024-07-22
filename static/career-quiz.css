@@ -1,21 +1,16 @@
 .career-quiz-start {
-    background-color: rgba(255, 255, 255, 1);
+    background-color: rgb(131.87, 152.34, 181.13);
     background: linear-gradient(180deg, rgb(130.69, 180.41, 159.53) 0%, rgb(131.87, 152.34, 181.13) 100%);
     display: flex;
     flex-direction: row;
     justify-content: center;
     width: 100%;
-    height: 1024px;
-}
-
-.career-quiz-start .overlap-group-wrapper {
-    background-color: rgba(255, 255, 255, 1);
+    height: 100%;
 }
 
 .career-quiz-start .overlap-group {
     position: relative;
-    width: 1369px;
-    height: 928px;
+    width: 1169px;
     top: 43px;
     left: 33px;
     background-image: url(./img/rectangle-8.svg);
@@ -24,17 +19,19 @@
 
 .career-quiz-start .overlap {
     position: absolute;
-    width: 1076px;
-    height: 233px;
-    top: 346px;
-    left: 150px;
+    background-color: #ffffff;
+    top: 20px;
+    padding: 20px;
+    padding-top: 130px;
+    padding-bottom: 70px;
+    width: 95%;
+    margin: auto;
+    border-radius: 12px;
 }
 
 .career-quiz-start .text-wrapper {
-    position: absolute;
-    width: 1076px;
-    top: 0;
-    left: 0;
+    position: relative;
+    text-align: center;
     font-family: "Inter-Bold", Helvetica;
     font-weight: 700;
     color: var(--variable-collection-better-blue);
@@ -45,15 +42,13 @@
 
 .career-quiz-start .frame {
     display: flex;
-    width: 371px;
-    height: 76px;
     align-items: center;
     justify-content: center;
     gap: 10px;
-    padding: 10px;
-    position: absolute;
-    top: 157px;
-    left: 349px;
+    padding: 15px;
+    position: relative;
+    margin: auto;
+    margin-top: 110px;
     background-color: var(--blue);
     border-radius: 40px;
 }
@@ -61,11 +56,11 @@
 .career-quiz-start .div {
     position: relative;
     width: fit-content;
-    font-family: "Inter-Bold", Helvetica;
+    font-family: Helvetica;
     font-weight: 700;
     color: #ffffff;
-    font-size: 40px;
-    letter-spacing: -2.8px;
+    font-size: 25px;
+    letter-spacing: -1.8px;
     line-height: normal;
     white-space: nowrap;
 }
@@ -90,12 +85,4 @@
     top: 29px;
     left: 28px;
     object-fit: cover;
-}
-
-.career-quiz-start .x {
-    position: absolute;
-    width: 48px;
-    height: 48px;
-    top: 24px;
-    left: 1282px;
 }

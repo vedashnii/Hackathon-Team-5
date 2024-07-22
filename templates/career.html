@@ -12,36 +12,31 @@
     <div class="career-quiz-sample">
         <div class="overlap-group-wrapper">
             <div class="overlap-group">
-                <div class="text-wrapper">favorites</div> <img class="black-white-simple"
-                    src="/static/img/black-white-simple-talk-logo-4-1.png" /> <img class="x" src="/static/img/image.svg" />
-                <div class="div">Bachelor’s Degree</div>
-                <div class="overlap">
-                    <div class="rectangle"></div>
-                    <div class="text-wrapper-2">design</div>
-                    <div class="rectangle-2"></div>
-                    <div class="rectangle-3"></div>
-                    <div class="text-wrapper-3">organization</div>
-                    <div class="text-wrapper-4">creative thinking</div>
-                    <div class="text-wrapper-5">front-end software</div>
+                <div class="text-wrapper"><a href="/favorites" style="color:#7A97A9;">favorites</a></div>
+                <img class="black-white-simple" src="/static/img/star.png" />
+                
+                <div class="text-wrapper-8">{{ job }}</div>
+
+                <div class="rectangle">{{ category }}</div>
+                
+                <div class="info">
+                    <p class="p">{{ desc }}</p>
+                    <p class="p">{{ salary }}</p>
+                    <p class="p">{{ degree }}</p>
                 </div>
                 <div class="overlap-2">
                     <div class="text-wrapper-6">favorite</div>
-                    <div class="frame"> <img class="img" src="/static/img/black-white-simple-talk-logo-2-1.png" />
+                    <div class="frame"> <img class="img" src="/static/img/star.png" />
                         <div class="text-wrapper-7">
-                            <a href="/careerfavorite"><button>favorite</button></a>
+                            <a href="/careerfavorite">favorite</a>
                         </div>
                     </div>
                 </div>
-                <div class="overlap-3"> <img class="UX-designer-jpeg" src="/static/img/UX-designer-jpeg-1.png" /> <img
-                        class="UX-designer-jpeg-2" src="/static/img/UX-designer-jpeg-2.png" /> </div>
-                <p class="p">{{ desc }}</p>
-                <div class="text-wrapper-8">{{ job }}</div>
-                <div class="text-wrapper-9">₹400-500k</div>
-                <div class="frame-2"> <img class="x-2" src="/static/img/x.png" />
+                <div class="frame-2"> <img class="img" src="/static/img/x.png" />
                     <div class="text-wrapper-7">
-                        <a href="/careernotforme"><button>not for me</button></a>
+                        <a href="/careernotforme">not for me</a>
                     </div>
-                </div>
+                </div>                
             </div>
         </div>
     </div>

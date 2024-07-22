@@ -10,24 +10,24 @@ def home():
 @app.route("/careerquiz")
 @app.route("/quiz")
 def quiz():
-    return render_template("quiz.html")
+    return render_template("startquiz.html")
 
 @app.route("/careerinit")
 def careerFirstPage():
     new_career = career.init()
-    return render_template("career.html", job=new_career[0], desc=new_career[1])
+    return render_template("career.html", job=new_career.get("name"), desc=new_career.get("description"), salary=new_career.get("salary"), category=new_career.get("category"), degree=new_career.get("degree"))
 @app.route("/careernotforme")
 def careerRejectPage():
     new_career = career.newCareer(prevReject=True)
     if (new_career != "END"):
-        return render_template("career.html", job=new_career[0], desc=new_career[1])
+        return render_template("career.html", job=new_career.get("name"), desc=new_career.get("description"), salary=new_career.get("salary"), category=new_career.get("category"), degree=new_career.get("degree"))
     else:
         return redirect(url_for("buildResume"))
 @app.route("/careerfavorite")
 def careerFavoritePage():
     new_career = career.newCareer(prevReject=False)
     if (new_career != "END"):
-        return render_template("career.html", job=new_career[0], desc=new_career[1])
+        return render_template("career.html", job=new_career.get("name"), desc=new_career.get("description"), salary=new_career.get("salary"), category=new_career.get("category"), degree=new_career.get("degree"))
     else:
         return redirect(url_for("buildResume"))
 

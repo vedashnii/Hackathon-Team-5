@@ -1,0 +1,1556 @@
+{
+    "Registered Nurse": {
+        "name": "Registered Nurse",
+        "degree": "Bachelor's",
+        "salary": "\u20b93,00,000 - \u20b97,00,000",
+        "category": "Healthcare and Wellness",
+        "description": "Provides patient care, administers medications, and collaborates with healthcare teams to improve health outcomes."
+    },
+    "Doctor": {
+        "name": "Doctor",
+        "degree": "Doctor of Medicine (MD) or equivalent",
+        "salary": "\u20b910,00,000 - \u20b930,00,000",
+        "category": "Healthcare and Wellness",
+        "description": "Diagnoses and treats illnesses, provides medical advice, and delivers care to patients."
+    },
+    "Physical Therapist": {
+        "name": "Physical Therapist",
+        "degree": "Bachelor's or Master's in Physical Therapy",
+        "salary": "\u20b93,00,000 - \u20b98,00,000",
+        "category": " Fitness, Sports, and Wellness",
+        "description": "Assists patients in recovering from injury through therapeutic exercises."
+    },
+    "Nutritionist": {
+        "name": "Nutritionist",
+        "degree": "Bachelor's or Master's in Nutrition/Dietetics",
+        "salary": "\u20b92,50,000 - \u20b97,00,000",
+        "category": "Healthcare and Wellness",
+        "description": "Advises clients on diet and nutrition to promote health and manage diseases."
+    },
+    "Wellness Coach": {
+        "name": "Wellness Coach",
+        "degree": "Certification in Wellness Coaching",
+        "salary": "\u20b93,00,000 - \u20b96,00,000",
+        "category": " Fitness, Sports, and Wellness",
+        "description": "Guides clients in achieving wellness goals through lifestyle changes."
+    },
+    "Software Developer": {
+        "name": "Software Developer",
+        "degree": "Bachelor's in Computer Science or related field",
+        "salary": "\u20b94,00,000 - \u20b912,00,000",
+        "category": "Technology and IT Services",
+        "description": "Designs, develops, and maintains software applications and systems."
+    },
+    "Systems Analyst": {
+        "name": "Systems Analyst",
+        "degree": "Bachelor's in Information Systems or IT",
+        "salary": "\u20b94,00,000 - \u20b910,00,000",
+        "category": " Telecommunications and Networking",
+        "description": "Analyzes and improves IT systems for organizations."
+    },
+    "Database Administrator": {
+        "name": "Database Administrator",
+        "degree": "Bachelor's in Computer Science or related field",
+        "salary": "\u20b94,00,000 - \u20b99,00,000",
+        "category": "Technology and IT Services",
+        "description": "Manages and organizes data using database management systems."
+    },
+    "IT Manager": {
+        "name": "IT Manager",
+        "degree": "Bachelor's or Master's in IT/Management",
+        "salary": "\u20b98,00,000 - \u20b920,00,000",
+        "category": "Technology and IT Services",
+        "description": "Oversees IT departments, manages projects, and ensures the IT infrastructure meets business needs."
+    },
+    "E-Learning Specialist": {
+        "name": "E-Learning Specialist",
+        "degree": "Bachelor's in Education or related field",
+        "salary": "\u20b93,00,000 - \u20b97,00,000",
+        "category": "Technology and IT Services",
+        "description": "Develops and implements online learning programs and technologies."
+    },
+    "University Professor": {
+        "name": "University Professor",
+        "degree": "PhD in a specific field",
+        "salary": "\u20b96,00,000 - \u20b915,00,000",
+        "category": "Education and Training",
+        "description": "Teaches university courses, conducts research, and mentors students."
+    },
+    "High School Teacher": {
+        "name": "High School Teacher",
+        "degree": "Bachelor's in Education or specific subject",
+        "salary": "\u20b93,00,000 - \u20b98,00,000",
+        "category": "Education and Training",
+        "description": "Educates students in various subjects and develops lesson plans."
+    },
+    "Corporate Trainer": {
+        "name": "Corporate Trainer",
+        "degree": "Bachelor's or Master's in Human Resources or related field",
+        "salary": "\u20b94,00,000 - \u20b910,00,000",
+        "category": "Education and Training",
+        "description": "Provides training programs to enhance employee skills and knowledge."
+    },
+    "Personal Coach": {
+        "name": "Personal Coach",
+        "degree": "Certification in Coaching",
+        "salary": "\u20b92,50,000 - \u20b96,00,000",
+        "category": "Education and Training",
+        "description": "Assists individuals in setting and achieving personal goals."
+    },
+    "Career Counselor": {
+        "name": "Career Counselor",
+        "degree": "Bachelor's or Master's in Psychology or Counseling",
+        "salary": "\u20b93,00,000 - \u20b98,00,000",
+        "category": "Education and Training",
+        "description": "Guides individuals in career planning and job searching."
+    },
+    "Financial Advisor": {
+        "name": "Financial Advisor",
+        "degree": "Bachelor's in Finance or related field",
+        "salary": "\u20b95,00,000 - \u20b912,00,000",
+        "category": "Finance and Investment",
+        "description": "Provides financial planning and investment advice to clients."
+    },
+    "Investment Banker": {
+        "name": "Investment Banker",
+        "degree": "Bachelor's in Finance or MBA",
+        "salary": "\u20b98,00,000 - \u20b925,00,000",
+        "category": "Finance and Investment",
+        "description": "Assists companies in raising capital and providing advisory services for mergers and acquisitions."
+    },
+    "Private Equity Analyst": {
+        "name": "Private Equity Analyst",
+        "degree": "Bachelor's in Finance or related field",
+        "salary": "\u20b96,00,000 - \u20b915,00,000",
+        "category": "Finance and Investment",
+        "description": "Analyzes investment opportunities in private equity markets."
+    },
+    "Portfolio Manager": {
+        "name": "Portfolio Manager",
+        "degree": "Bachelor's in Finance or MBA",
+        "salary": "\u20b98,00,000 - \u20b920,00,000",
+        "category": "Finance and Investment",
+        "description": "Manages investment portfolios for clients and institutions."
+    },
+    "Financial Analyst": {
+        "name": "Financial Analyst",
+        "degree": "Bachelor's in Finance or Business",
+        "salary": "\u20b94,00,000 - \u20b910,00,000",
+        "category": "Finance and Investment",
+        "description": "Analyzes financial data to help businesses make informed decisions."
+    },
+    "Farmer": {
+        "name": "Farmer",
+        "degree": "No formal degree required, but a degree in Agricultural Science can be beneficial",
+        "salary": "\u20b91,20,000 - \u20b95,00,000",
+        "category": "Agriculture, Farming, and Fishery",
+        "description": "Cultivates crops or raises livestock for food production."
+    },
+    "Agricultural Inspector": {
+        "name": "Agricultural Inspector",
+        "degree": "Bachelor's in Agricultural Science or related field",
+        "salary": "\u20b93,00,000 - \u20b96,00,000",
+        "category": "Agriculture, Farming, and Fishery",
+        "description": "Inspects agricultural products and operations to ensure compliance with regulations."
+    },
+    "Commercial Fisherman": {
+        "name": "Commercial Fisherman",
+        "degree": "No formal degree required",
+        "salary": "\u20b92,00,000 - \u20b95,00,000",
+        "category": "Agriculture, Farming, and Fishery",
+        "description": "Catches fish and other seafood for commercial sale."
+    },
+    "Aquaculture Manager": {
+        "name": "Aquaculture Manager",
+        "degree": "Bachelor's in Fisheries Science or related field",
+        "salary": "\u20b93,00,000 - \u20b98,00,000",
+        "category": "Agriculture, Farming, and Fishery",
+        "description": "Oversees fish farming and aquatic resource management operations."
+    },
+    "Animal Breeder": {
+        "name": "Animal Breeder",
+        "degree": "Bachelor's in Animal Science or related field",
+        "salary": "\u20b93,00,000 - \u20b97,00,000",
+        "category": "Agriculture, Farming, and Fishery",
+        "description": "Selects and breeds animals to produce desired traits for agricultural or commercial purposes."
+    },
+    "Industrial Engineer": {
+        "name": "Industrial Engineer",
+        "degree": "Bachelor's in Industrial Engineering",
+        "salary": "\u20b95,00,000 - \u20b912,00,000",
+        "category": " Engineering and Industrial Automation",
+        "description": "Optimizes production processes and improves efficiency."
+    },
+    "Manufacturing Technician": {
+        "name": "Manufacturing Technician",
+        "degree": "Associate's or Diploma in Engineering/Manufacturing",
+        "salary": "\u20b92,50,000 - \u20b95,00,000",
+        "category": "Manufacturing",
+        "description": "Operates equipment and machinery on the manufacturing floor."
+    },
+    "Quality Control Analyst": {
+        "name": "Quality Control Analyst",
+        "degree": "Bachelor's in Engineering or Science",
+        "salary": "\u20b93,00,000 - \u20b98,00,000",
+        "category": " Engineering and Industrial Automation",
+        "description": "Ensures products meet quality standards through inspections and testing."
+    },
+    "Production Manager": {
+        "name": "Production Manager",
+        "degree": "Bachelor's in Engineering or Management",
+        "salary": "\u20b96,00,000 - \u20b915,00,000",
+        "category": " Engineering and Industrial Automation",
+        "description": "Oversees production processes and manages production teams."
+    },
+    "Mechanical Engineer": {
+        "name": "Mechanical Engineer",
+        "degree": "Bachelor's in Mechanical Engineering",
+        "salary": "\u20b95,00,000 - \u20b912,00,000",
+        "category": " Automotive and Aerospace",
+        "description": "Designs and tests mechanical systems, including vehicles."
+    },
+    "Store Manager": {
+        "name": "Store Manager",
+        "degree": "Bachelor's in Business or Management",
+        "salary": "\u20b94,00,000 - \u20b910,00,000",
+        "category": "Retail and E-commerce",
+        "description": "Manages store operations, staff, and customer service."
+    },
+    "Retail Salesperson": {
+        "name": "Retail Salesperson",
+        "degree": "No formal degree required",
+        "salary": "\u20b91,80,000 - \u20b93,50,000",
+        "category": "Retail and E-commerce",
+        "description": "Assists customers in purchasing products and provides information about merchandise."
+    },
+    "E-commerce Specialist": {
+        "name": "E-commerce Specialist",
+        "degree": "Bachelor's in Marketing or related field",
+        "salary": "\u20b93,00,000 - \u20b98,00,000",
+        "category": "Retail and E-commerce",
+        "description": "Manages online retail platforms and increases online sales."
+    },
+    "Purchasing Manager": {
+        "name": "Purchasing Manager",
+        "degree": "Bachelor's in Supply Chain Management or Business",
+        "salary": "\u20b95,00,000 - \u20b912,00,000",
+        "category": "Retail and E-commerce",
+        "description": "Oversees procurement processes and vendor negotiations."
+    },
+    "Visual Merchandiser": {
+        "name": "Visual Merchandiser",
+        "degree": "Bachelor's in Fashion Merchandising or Design",
+        "salary": "\u20b93,00,000 - \u20b98,00,000",
+        "category": " Textiles and Fashion Industry",
+        "description": "Creates visual displays that attract customers in retail settings."
+    },
+    "Hotel Manager": {
+        "name": "Hotel Manager",
+        "degree": "Bachelor's in Hospitality Management or Business",
+        "salary": "\u20b95,00,000 - \u20b915,00,000",
+        "category": "Hospitality, Travel, and Tourism",
+        "description": "Oversees hotel operations, staff, and guest services."
+    },
+    "Tour Guide": {
+        "name": "Tour Guide",
+        "degree": "No formal degree required, but knowledge of tourism and local history is beneficial",
+        "salary": "\u20b92,00,000 - \u20b95,00,000",
+        "category": "Hospitality, Travel, and Tourism",
+        "description": "Leads and informs tourists during trips and excursions."
+    },
+    "Travel Agent": {
+        "name": "Travel Agent",
+        "degree": "Bachelor's in Travel and Tourism or related field",
+        "salary": "\u20b92,50,000 - \u20b96,00,000",
+        "category": "Hospitality, Travel, and Tourism",
+        "description": "Plans and sells travel packages to clients."
+    },
+    "Chef": {
+        "name": "Chef",
+        "degree": "Culinary Arts Diploma",
+        "salary": "\u20b93,00,000 - \u20b912,00,000",
+        "category": " Food and Beverage Services",
+        "description": "Prepares gourmet meals and manages kitchen staff."
+    },
+    "Event Planner": {
+        "name": "Event Planner",
+        "degree": "Bachelor's in Event Management or Hospitality",
+        "salary": "\u20b93,00,000 - \u20b98,00,000",
+        "category": " Event Planning and Services",
+        "description": "Plans and coordinates events, from weddings to corporate functions."
+    },
+    "Real Estate Agent": {
+        "name": "Real Estate Agent",
+        "degree": "No formal degree required, but certification is needed",
+        "salary": "\u20b92,00,000 - \u20b910,00,000 (commission-based)",
+        "category": "Real Estate",
+        "description": "Assists clients in buying, selling, or renting properties."
+    },
+    "Property Manager": {
+        "name": "Property Manager",
+        "degree": "Bachelor's in Real Estate or Business",
+        "salary": "\u20b94,00,000 - \u20b910,00,000",
+        "category": " Property Management and Facilities Services",
+        "description": "Manages rental properties and oversees tenant relations."
+    },
+    "Real Estate Appraiser": {
+        "name": "Real Estate Appraiser",
+        "degree": "Bachelor's in Real Estate or related field",
+        "salary": "\u20b93,00,000 - \u20b97,00,000",
+        "category": "Real Estate",
+        "description": "Evaluates properties to determine their market value."
+    },
+    "Leasing Consultant": {
+        "name": "Leasing Consultant",
+        "degree": "No formal degree required",
+        "salary": "\u20b92,00,000 - \u20b95,00,000",
+        "category": " Property Management and Facilities Services",
+        "description": "Assists clients in leasing properties and provides property information."
+    },
+    "Mortgage Loan Officer": {
+        "name": "Mortgage Loan Officer",
+        "degree": "Bachelor's in Finance or related field",
+        "salary": "\u20b94,00,000 - \u20b910,00,000",
+        "category": "Real Estate",
+        "description": "Helps clients secure mortgage loans for purchasing properties."
+    },
+    "Logistics Manager": {
+        "name": "Logistics Manager",
+        "degree": "Bachelor's in Logistics or Supply Chain Management",
+        "salary": "\u20b96,00,000 - \u20b915,00,000",
+        "category": " Transportation, Logistics, and Warehousing",
+        "description": "Manages supply chain operations and logistics processes."
+    },
+    "Truck Driver": {
+        "name": "Truck Driver",
+        "degree": "No formal degree required; valid driving license is necessary",
+        "salary": "\u20b92,00,000 - \u20b95,00,000",
+        "category": " Transportation, Logistics, and Warehousing",
+        "description": "Transports goods via truck, following delivery schedules."
+    },
+    "Warehouse Supervisor": {
+        "name": "Warehouse Supervisor",
+        "degree": "Bachelor's in Supply Chain Management or related field",
+        "salary": "\u20b93,00,000 - \u20b97,00,000",
+        "category": " Office Supplies and Equipment",
+        "description": "Oversees warehouse operations and ensures efficiency in storage and distribution."
+    },
+    "Supply Chain Analyst": {
+        "name": "Supply Chain Analyst",
+        "degree": "Bachelor's in Supply Chain Management or Business",
+        "salary": "\u20b94,00,000 - \u20b910,00,000",
+        "category": " Consumer Goods and Services",
+        "description": "Analyzes data related to supply chain processes to enhance efficiency."
+    },
+    "Operations Manager": {
+        "name": "Operations Manager",
+        "degree": "Bachelor's or Master's in Operations Management",
+        "salary": "\u20b95,00,000 - \u20b912,00,000",
+        "category": " Transportation, Logistics, and Warehousing",
+        "description": "Oversees day-to-day operations and ensures efficiency across departments."
+    },
+    "Public Administrator": {
+        "name": "Public Administrator",
+        "degree": "Bachelor's or Master's in Public Administration",
+        "salary": "\u20b95,00,000 - \u20b912,00,000",
+        "category": " Government and Public Administration",
+        "description": "Manages public agencies and implements policies."
+    },
+    "Public Policy Analyst": {
+        "name": "Public Policy Analyst",
+        "degree": "Master's in Public Policy or related field",
+        "salary": "\u20b94,00,000 - \u20b910,00,000",
+        "category": " Government and Public Administration",
+        "description": "Analyzes government policies and their impact on the public."
+    },
+    "Urban Planner": {
+        "name": "Urban Planner",
+        "degree": "Master's in Urban Planning",
+        "salary": "\u20b94,00,000 - \u20b910,00,000",
+        "category": " Government and Public Administration",
+        "description": "Develops plans for land use in urban areas to improve community structures and services."
+    },
+    "Social Worker": {
+        "name": "Social Worker",
+        "degree": "Bachelor's or Master's in Social Work",
+        "salary": "\u20b93,00,000 - \u20b98,00,000",
+        "category": " Non-Profit and Philanthropy",
+        "description": "Provides support and resources to individuals and families in need."
+    },
+    "Government Relations Officer": {
+        "name": "Government Relations Officer",
+        "degree": "Bachelor's in Political Science or related field",
+        "salary": "\u20b94,00,000 - \u20b99,00,000",
+        "category": " Government and Public Administration",
+        "description": "Manages relationships between organizations and government entities."
+    },
+    "Petroleum Engineer": {
+        "name": "Petroleum Engineer",
+        "degree": "Bachelor's in Petroleum Engineering",
+        "salary": "\u20b96,00,000 - \u20b915,00,000",
+        "category": " Energy",
+        "description": "Designs and develops methods for extracting oil and gas."
+    },
+    "Solar Panel Installer": {
+        "name": "Solar Panel Installer",
+        "degree": "No formal degree required, vocational training is beneficial",
+        "salary": "\u20b91,80,000 - \u20b94,00,000",
+        "category": " Energy",
+        "description": "Installs solar panels on residential and commercial properties."
+    },
+    "Nuclear Power Reactor Operator": {
+        "name": "Nuclear Power Reactor Operator",
+        "degree": "Associate's degree in Nuclear Technology or related field",
+        "salary": "\u20b94,00,000 - \u20b910,00,000",
+        "category": " Energy",
+        "description": "Operates and monitors nuclear reactors and associated equipment."
+    },
+    "Wind Turbine Technician": {
+        "name": "Wind Turbine Technician",
+        "degree": "Associate's degree in Renewable Energy or related field",
+        "salary": "\u20b92,50,000 - \u20b96,00,000",
+        "category": " Energy",
+        "description": "Installs, maintains, and repairs wind turbines."
+    },
+    "Geologist": {
+        "name": "Geologist",
+        "degree": "Bachelor's or Master's in Geology",
+        "salary": "\u20b94,00,000 - \u20b910,00,000",
+        "category": " Mining and Metals",
+        "description": "Studies Earth's processes and materials, often in relation to mineral extraction."
+    },
+    "Restaurant Manager": {
+        "name": "Restaurant Manager",
+        "degree": "Bachelor's in Hospitality Management or Business",
+        "salary": "\u20b93,00,000 - \u20b910,00,000",
+        "category": " Food and Beverage Services",
+        "description": "Oversees restaurant operations, staff, and customer service."
+    },
+    "Food Service Manager": {
+        "name": "Food Service Manager",
+        "degree": "Bachelor's in Food Service Management or related field",
+        "salary": "\u20b93,00,000 - \u20b98,00,000",
+        "category": " Food and Beverage Services",
+        "description": "Manages food service operations in establishments like schools and hospitals."
+    },
+    "Bartender": {
+        "name": "Bartender",
+        "degree": "No formal degree required, but bartending certification is beneficial",
+        "salary": "\u20b91,80,000 - \u20b94,00,000",
+        "category": " Food and Beverage Services",
+        "description": "Prepares and serves drinks, interacts with customers, and manages bar inventory."
+    },
+    "Sommelier": {
+        "name": "Sommelier",
+        "degree": "Certification in Wine Studies",
+        "salary": "\u20b93,00,000 - \u20b97,00,000",
+        "category": " Food and Beverage Services",
+        "description": "Expert in wine and food pairings, advises customers on wine selections."
+    },
+    "Personal Trainer": {
+        "name": "Personal Trainer",
+        "degree": "Certification in Personal Training",
+        "salary": "\u20b92,00,000 - \u20b95,00,000",
+        "category": " Fitness, Sports, and Wellness",
+        "description": "Designs individualized fitness programs and provides coaching."
+    },
+    "Athletic Coach": {
+        "name": "Athletic Coach",
+        "degree": "Bachelor's in Sports Science or Physical Education",
+        "salary": "\u20b93,00,000 - \u20b98,00,000",
+        "category": " Sports and Recreation",
+        "description": "Trains and develops athletes in specific sports."
+    },
+    "Sports Agent": {
+        "name": "Sports Agent",
+        "degree": "Bachelor's in Sports Management or Business",
+        "salary": "\u20b95,00,000 - \u20b915,00,000 (commission-based)",
+        "category": " Sports and Recreation",
+        "description": "Represents athletes and negotiates contracts on their behalf."
+    },
+    "Sports Marketer": {
+        "name": "Sports Marketer",
+        "degree": "Bachelor's in Marketing or Sports Management",
+        "salary": "\u20b93,00,000 - \u20b910,00,000",
+        "category": " Sports and Recreation",
+        "description": "Develops marketing strategies for sports teams and events."
+    },
+    "Physical Education Teacher": {
+        "name": "Physical Education Teacher",
+        "degree": "Bachelor's in Physical Education",
+        "salary": "\u20b93,00,000 - \u20b97,00,000",
+        "category": " Sports and Recreation",
+        "description": "Teaches students about physical fitness and sports."
+    },
+    "Automotive Technician": {
+        "name": "Automotive Technician",
+        "degree": "Diploma in Automotive Engineering or related field",
+        "salary": "\u20b92,00,000 - \u20b95,00,000",
+        "category": " Automotive and Aerospace",
+        "description": "Repairs and maintains vehicles."
+    },
+    "Aerospace Engineer": {
+        "name": "Aerospace Engineer",
+        "degree": "Bachelor's in Aerospace Engineering",
+        "salary": "\u20b96,00,000 - \u20b915,00,000",
+        "category": " Automotive and Aerospace",
+        "description": "Designs and tests aircraft, spacecraft, and related systems."
+    },
+    "Aircraft Mechanic": {
+        "name": "Aircraft Mechanic",
+        "degree": "Diploma in Aviation Maintenance",
+        "salary": "\u20b93,00,000 - \u20b98,00,000",
+        "category": " Automotive and Aerospace",
+        "description": "Inspects and repairs aircraft systems and components."
+    },
+    "Quality Assurance Inspector": {
+        "name": "Quality Assurance Inspector",
+        "degree": "Bachelor's in Engineering or related field",
+        "salary": "\u20b93,00,000 - \u20b97,00,000",
+        "category": " Automotive and Aerospace",
+        "description": "Ensures products meet quality standards through inspections."
+    },
+    "Marketing Coordinator": {
+        "name": "Marketing Coordinator",
+        "degree": "Bachelor's in Marketing or Business",
+        "salary": "\u20b93,00,000 - \u20b98,00,000",
+        "category": " Marketing, PR, and Communication",
+        "description": "Assists with marketing campaigns and promotional activities."
+    },
+    "PR Specialist": {
+        "name": "PR Specialist",
+        "degree": "Bachelor's in Public Relations or Communication",
+        "salary": "\u20b93,00,000 - \u20b97,00,000",
+        "category": " Marketing, PR, and Communication",
+        "description": "Manages an organization's public image and media relations."
+    },
+    "Advertising Manager": {
+        "name": "Advertising Manager",
+        "degree": "Bachelor's in Marketing or Advertising",
+        "salary": "\u20b95,00,000 - \u20b912,00,000",
+        "category": " Marketing, PR, and Communication",
+        "description": "Oversees advertising campaigns and manages creative teams."
+    },
+    "Social Media Specialist": {
+        "name": "Social Media Specialist",
+        "degree": "Bachelor's in Marketing or Communication",
+        "salary": "\u20b93,00,000 - \u20b98,00,000",
+        "category": " Marketing, PR, and Communication",
+        "description": "Manages and creates content for social media platforms."
+    },
+    "Copywriter": {
+        "name": "Copywriter",
+        "degree": "Bachelor's in English, Marketing, or related field",
+        "salary": "\u20b92,50,000 - \u20b96,00,000",
+        "category": " Marketing, PR, and Communication",
+        "description": "Writes persuasive content for advertising and marketing purposes."
+    },
+    "Journalist": {
+        "name": "Journalist",
+        "degree": "Bachelor's in Journalism or Communication",
+        "salary": "\u20b92,00,000 - \u20b98,00,000",
+        "category": " Media and Entertainment",
+        "description": "Researches, writes, and reports news stories for various media outlets."
+    },
+    "Film Director": {
+        "name": "Film Director",
+        "degree": "Bachelor's in Film Production or related field",
+        "salary": "\u20b95,00,000 - \u20b920,00,000",
+        "category": " Photography and Videography",
+        "description": "Directs film productions and coordinates the creative aspects."
+    },
+    "Broadcast Engineer": {
+        "name": "Broadcast Engineer",
+        "degree": "Bachelor's in Broadcasting or Engineering",
+        "salary": "\u20b93,00,000 - \u20b98,00,000",
+        "category": " Media and Entertainment",
+        "description": "Operates and maintains equipment used in broadcasting."
+    },
+    "Animator": {
+        "name": "Animator",
+        "degree": "Bachelor's in Animation or Graphic Design",
+        "salary": "\u20b93,00,000 - \u20b98,00,000",
+        "category": " Media and Entertainment",
+        "description": "Creates animations and visual effects for film, television, or video games."
+    },
+    "Music Composer": {
+        "name": "Music Composer",
+        "degree": "Bachelor's in Music or Composition",
+        "salary": "\u20b93,00,000 - \u20b910,00,000",
+        "category": " Media and Entertainment",
+        "description": "Composes and arranges music for various projects."
+    },
+    "Attorney": {
+        "name": "Attorney",
+        "degree": "Bachelor's in Law (LLB) and Bar Council registration",
+        "salary": "\u20b96,00,000 - \u20b920,00,000",
+        "category": " Legal Services and Law Enforcement",
+        "description": "Represents clients in legal proceedings and provides legal advice."
+    },
+    "Paralegal": {
+        "name": "Paralegal",
+        "degree": "Bachelor's in Paralegal Studies or related field",
+        "salary": "\u20b93,00,000 - \u20b96,00,000",
+        "category": " Legal Services and Law Enforcement",
+        "description": "Assists lawyers in legal research, documentation, and case preparation."
+    },
+    "Police Officer": {
+        "name": "Police Officer",
+        "degree": "Bachelor's in Criminal Justice or related field",
+        "salary": "\u20b93,00,000 - \u20b97,00,000",
+        "category": " Legal Services and Law Enforcement",
+        "description": "Enforces laws, prevents crimes, and protects the public."
+    },
+    "Correctional Officer": {
+        "name": "Correctional Officer",
+        "degree": "No formal degree required, but training is necessary",
+        "salary": "\u20b92,00,000 - \u20b95,00,000",
+        "category": " Legal Services and Law Enforcement",
+        "description": "Oversees individuals in correctional facilities and ensures safety and security."
+    },
+    "Forensic Scientist": {
+        "name": "Forensic Scientist",
+        "degree": "Bachelor's in Forensic Science or related field",
+        "salary": "\u20b94,00,000 - \u20b910,00,000",
+        "category": " Legal Services and Law Enforcement",
+        "description": "Analyzes physical evidence from crime scenes to assist in investigations."
+    },
+    "HR Manager": {
+        "name": "HR Manager",
+        "degree": "Bachelor's or Master's in Human Resources",
+        "salary": "\u20b96,00,000 - \u20b915,00,000",
+        "category": " Human Resources and Recruiting",
+        "description": "Manages HR functions, including recruitment, employee relations, and compliance."
+    },
+    "Recruiter": {
+        "name": "Recruiter",
+        "degree": "Bachelor's in Human Resources or related field",
+        "salary": "\u20b93,00,000 - \u20b98,00,000",
+        "category": " Human Resources and Recruiting",
+        "description": "Sources, screens, and hires candidates for job openings."
+    },
+    "Employee Relations Manager": {
+        "name": "Employee Relations Manager",
+        "degree": "Bachelor's in Human Resources or Business",
+        "salary": "\u20b94,00,000 - \u20b910,00,000",
+        "category": " Human Resources and Recruiting",
+        "description": "Manages employee relations and addresses workplace issues."
+    },
+    "Payroll Specialist": {
+        "name": "Payroll Specialist",
+        "degree": "Bachelor's in Accounting or Business",
+        "salary": "\u20b93,00,000 - \u20b96,00,000",
+        "category": " Human Resources and Recruiting",
+        "description": "Manages payroll processes and ensures compliance with labor regulations."
+    },
+    "Training and Development Specialist": {
+        "name": "Training Development Specialist",
+        "degree": "Bachelor's in Human Resources or Education",
+        "salary": "\u20b93,00,000 - \u20b98,00,000",
+        "category": " Human Resources and Recruiting",
+        "description": "Develops training programs to enhance employee skills and performance."
+    },
+    "Graphic Designer": {
+        "name": "Graphic Designer",
+        "degree": "Bachelor's in Graphic Design or Fine Arts",
+        "salary": "\u20b92,50,000 - \u20b96,00,000",
+        "category": " Graphic Novels and Comics",
+        "description": "Designs visual content for various media using design software."
+    },
+    "Interior Designer": {
+        "name": "Interior Designer",
+        "degree": "Bachelor's in Interior Design",
+        "salary": "\u20b93,00,000 - \u20b910,00,000",
+        "category": " Arts and Design",
+        "description": "Designs and coordinates the interior spaces of residential and commercial buildings."
+    },
+    "Artist": {
+        "name": "Artist",
+        "degree": "Bachelor's in Fine Arts or related field",
+        "salary": "\u20b92,00,000 - \u20b98,00,000",
+        "category": " Arts and Design",
+        "description": "Creates original artworks using various mediums."
+    },
+    "Illustrator": {
+        "name": "Illustrator",
+        "degree": "Bachelor's in Fine Arts or Illustration",
+        "salary": "\u20b92,50,000 - \u20b96,00,000",
+        "category": " Graphic Novels and Comics",
+        "description": "Produces visual representations to accompany written content."
+    },
+    "Fashion Designer": {
+        "name": "Fashion Designer",
+        "degree": "Bachelor's in Fashion Design",
+        "salary": "\u20b93,00,000 - \u20b912,00,000",
+        "category": " Textiles and Fashion Industry",
+        "description": "Designs clothing, accessories, and footwear."
+    },
+    "Biochemist": {
+        "name": "Biochemist",
+        "degree": "Master's or PhD in Biochemistry",
+        "salary": "\u20b95,00,000 - \u20b912,00,000",
+        "category": " Science and Research",
+        "description": "Studies the chemical processes within and related to living organisms."
+    },
+    "Pharmaceutical Scientist": {
+        "name": "Pharmaceutical Scientist",
+        "degree": "PhD in Pharmaceutical Sciences",
+        "salary": "\u20b96,00,000 - \u20b915,00,000",
+        "category": " Science and Research",
+        "description": "Researches and develops new medications and drug formulations."
+    },
+    "Biomedical Engineer": {
+        "name": "Biomedical Engineer",
+        "degree": "Bachelor's or Master's in Biomedical Engineering",
+        "salary": "\u20b96,00,000 - \u20b915,00,000",
+        "category": " Science and Research",
+        "description": "Designs medical equipment and develops healthcare technologies."
+    },
+    "Clinical Research Associate": {
+        "name": "Clinical Research Associate",
+        "degree": "Bachelor's in Life Sciences or related field",
+        "salary": "\u20b94,00,000 - \u20b910,00,000",
+        "category": " Science and Research",
+        "description": "Manages clinical trials and ensures compliance with regulatory standards."
+    },
+    "Molecular Biologist": {
+        "name": "Molecular Biologist",
+        "degree": "Master's or PhD in Molecular Biology",
+        "salary": "\u20b95,00,000 - \u20b912,00,000",
+        "category": " Science and Research",
+        "description": "Studies the molecular mechanisms of biological processes."
+    },
+    "Architect": {
+        "name": "Architect",
+        "degree": "Bachelor's in Architecture (B.Arch)",
+        "salary": "\u20b95,00,000 - \u20b915,00,000",
+        "category": " Architecture and Construction",
+        "description": "Designs buildings and structures, ensuring functionality and aesthetics."
+    },
+    "Construction Project Manager": {
+        "name": "Construction Project Manager",
+        "degree": "Bachelor's in Construction Management or Engineering",
+        "salary": "\u20b96,00,000 - \u20b915,00,000",
+        "category": " Architecture and Construction",
+        "description": "Oversees construction projects from planning to completion."
+    },
+    "Civil Engineer": {
+        "name": "Civil Engineer",
+        "degree": "Bachelor's in Civil Engineering",
+        "salary": "\u20b95,00,000 - \u20b912,00,000",
+        "category": " Architecture and Construction",
+        "description": "Designs, constructs, and maintains infrastructure projects like roads and bridges."
+    },
+    "Building Inspector": {
+        "name": "Building Inspector",
+        "degree": "Bachelor's in Construction Management or related field",
+        "salary": "\u20b93,00,000 - \u20b97,00,000",
+        "category": " Property Management and Facilities Services",
+        "description": "Inspects buildings to ensure compliance with codes and regulations."
+    },
+    "Landscape Architect": {
+        "name": "Landscape Architect",
+        "degree": "Bachelor's or Master's in Landscape Architecture",
+        "salary": "\u20b94,00,000 - \u20b910,00,000",
+        "category": " Architecture and Construction",
+        "description": "Designs outdoor spaces, parks, and landscapes for public and private use."
+    },
+    "Environmental Scientist": {
+        "name": "Environmental Scientist",
+        "degree": "Bachelor's in Environmental Science or related field",
+        "salary": "\u20b94,00,000 - \u20b910,00,000",
+        "category": " Environment and Sustainability",
+        "description": "Studies environmental issues and develops solutions to protect natural resources."
+    },
+    "Conservation Scientist": {
+        "name": "Conservation Scientist",
+        "degree": "Bachelor's in Forestry or Environmental Science",
+        "salary": "\u20b94,00,000 - \u20b99,00,000",
+        "category": " Environment and Sustainability",
+        "description": "Manages and protects natural resources and ecosystems."
+    },
+    "Sustainability Consultant": {
+        "name": "Sustainability Consultant",
+        "degree": "Bachelor's in Environmental Science or related field",
+        "salary": "\u20b95,00,000 - \u20b912,00,000",
+        "category": " Environment and Sustainability",
+        "description": "Advises organizations on sustainable practices and strategies."
+    },
+    "Waste Management Officer": {
+        "name": "Waste Management Officer",
+        "degree": "Bachelor's in Environmental Engineering or related field",
+        "salary": "\u20b93,00,000 - \u20b98,00,000",
+        "category": " Environment and Sustainability",
+        "description": "Manages waste disposal and recycling programs."
+    },
+    "Landscaper": {
+        "name": "Landscaper",
+        "degree": "No formal degree required, but knowledge of horticulture is beneficial",
+        "salary": "\u20b91,80,000 - \u20b95,00,000",
+        "category": " Environment and Sustainability",
+        "description": "Designs and maintains outdoor spaces and gardens."
+    },
+    "Fundraising Manager": {
+        "name": "Fundraising Manager",
+        "degree": "Bachelor's in Non-Profit Management or related field",
+        "salary": "\u20b94,00,000 - \u20b910,00,000",
+        "category": " Non-Profit and Philanthropy",
+        "description": "Develops fundraising strategies and manages donor relations for non-profits."
+    },
+    "Volunteer Coordinator": {
+        "name": "Volunteer Coordinator",
+        "degree": "Bachelor's in Social Work or related field",
+        "salary": "\u20b92,50,000 - \u20b96,00,000",
+        "category": " Non-Profit and Philanthropy",
+        "description": "Recruits and manages volunteers for non-profit organizations."
+    },
+    "Non-Profit Director": {
+        "name": "Non-Profit Director",
+        "degree": "Bachelor's or Master's in Non-Profit Management or Business",
+        "salary": "\u20b96,00,000 - \u20b915,00,000",
+        "category": " Non-Profit and Philanthropy",
+        "description": "Oversees the strategic direction and operations of a non-profit organization."
+    },
+    "Community Outreach Specialist": {
+        "name": "Community Outreach Specialist",
+        "degree": "Bachelor's in Social Work or Community Development",
+        "salary": "\u20b93,00,000 - \u20b97,00,000",
+        "category": " Non-Profit and Philanthropy",
+        "description": "Engages with the community to promote programs and services."
+    },
+    "Security Guard": {
+        "name": "Security Guard",
+        "degree": "No formal degree required",
+        "salary": "\u20b91,80,000 - \u20b93,50,000",
+        "category": " Security and Defense",
+        "description": "Monitors and protects property and individuals."
+    },
+    "Cyber Security Analyst": {
+        "name": "Cyber Security Analyst",
+        "degree": "Bachelor's in Computer Science or Cybersecurity",
+        "salary": "\u20b94,00,000 - \u20b912,00,000",
+        "category": " Security and Defense",
+        "description": "Protects an organization's information systems from cyber threats."
+    },
+    "Military Officer": {
+        "name": "Military Officer",
+        "degree": "Bachelor's in Military Science or related field",
+        "salary": "\u20b95,00,000 - \u20b915,00,000",
+        "category": " Security and Defense",
+        "description": "Leads and manages military operations and personnel."
+    },
+    "Intelligence Analyst": {
+        "name": "Intelligence Analyst",
+        "degree": "Bachelor's in Intelligence Studies or related field",
+        "salary": "\u20b94,00,000 - \u20b910,00,000",
+        "category": " Security and Defense",
+        "description": "Analyzes data to support national security decisions."
+    },
+    "Emergency Management Director": {
+        "name": "Emergency Management Director",
+        "degree": "Bachelor's in Emergency Management or Public Safety",
+        "salary": "\u20b96,00,000 - \u20b912,00,000",
+        "category": " Security and Defense",
+        "description": "Prepares for and responds to emergencies and disasters."
+    },
+    "Writer": {
+        "name": "Writer",
+        "degree": "Bachelor's in English, Creative Writing, or related field",
+        "salary": "\u20b92,00,000 - \u20b98,00,000",
+        "category": " Graphic Novels and Comics",
+        "description": "Creates scripts and stories for comics and graphic novels."
+    },
+    "Editor": {
+        "name": "Editor",
+        "degree": "Bachelor's in English, Journalism, or related field",
+        "salary": "\u20b93,00,000 - \u20b97,00,000",
+        "category": " Graphic Novels and Comics",
+        "description": "Edits and refines comic scripts and artwork for publication."
+    },
+    "Publisher": {
+        "name": "Publisher",
+        "degree": "Bachelor's in Publishing or Business",
+        "salary": "\u20b94,00,000 - \u20b910,00,000",
+        "category": " Writing, Editing, and Publishing",
+        "description": "Manages the publication of books, magazines, and other media."
+    },
+    "Proofreader": {
+        "name": "Proofreader",
+        "degree": "No formal degree required, but attention to detail is essential",
+        "salary": "\u20b92,00,000 - \u20b95,00,000",
+        "category": " Writing, Editing, and Publishing",
+        "description": "Reviews written content for grammatical and typographical errors."
+    },
+    "Literary Agent": {
+        "name": "Literary Agent",
+        "degree": "Bachelor's in English or related field",
+        "salary": "\u20b93,00,000 - \u20b98,00,000",
+        "category": " Writing, Editing, and Publishing",
+        "description": "Represents writers and helps them sell their work to publishers."
+    },
+    "Management Consultant": {
+        "name": "Management Consultant",
+        "degree": "Bachelor's or Master's in Business Administration",
+        "salary": "\u20b98,00,000 - \u20b920,00,000",
+        "category": " Consulting and Business Services",
+        "description": "Advises organizations on improving their performance and addressing challenges."
+    },
+    "Business Analyst": {
+        "name": "Business Analyst",
+        "degree": "Bachelor's in Business or IT",
+        "salary": "\u20b94,00,000 - \u20b910,00,000",
+        "category": " Consulting and Business Services",
+        "description": "Analyzes business processes and identifies areas for improvement."
+    },
+    "Project Manager": {
+        "name": "Project Manager",
+        "degree": "Bachelor's in Management or Engineering",
+        "salary": "\u20b95,00,000 - \u20b915,00,000",
+        "category": " Consulting and Business Services",
+        "description": "Plans, executes, and closes projects while managing teams and resources."
+    },
+    "Operations Consultant": {
+        "name": "Operations Consultant",
+        "degree": "Bachelor's in Business or Engineering",
+        "salary": "\u20b96,00,000 - \u20b915,00,000",
+        "category": " Consulting and Business Services",
+        "description": "Provides expertise to improve operational efficiency and effectiveness."
+    },
+    "Strategy Consultant": {
+        "name": "Strategy Consultant",
+        "degree": "Bachelor's or Master's in Business Administration",
+        "salary": "\u20b98,00,000 - \u20b920,00,000",
+        "category": " Consulting and Business Services",
+        "description": "Guides organizations on strategic planning and business growth."
+    },
+    "Product Manager": {
+        "name": "Product Manager",
+        "degree": "Bachelor's in Business or Engineering",
+        "salary": "\u20b95,00,000 - \u20b912,00,000",
+        "category": " Tech Startups",
+        "description": "Oversees the development and marketing of the startup's products."
+    },
+    "Brand Manager": {
+        "name": "Brand Manager",
+        "degree": "Bachelor's in Marketing or Business",
+        "salary": "\u20b96,00,000 - \u20b915,00,000",
+        "category": " Consumer Goods and Services",
+        "description": "Manages brand strategy to enhance brand perception and market share."
+    },
+    "Customer Service Representative": {
+        "name": "Customer Service Representative",
+        "degree": "No formal degree required",
+        "salary": "\u20b91,80,000 - \u20b94,00,000",
+        "category": " Office Supplies and Equipment",
+        "description": "Assists customers with inquiries and provides support for office supplies and equipment."
+    },
+    "Sales Representative": {
+        "name": "Sales Representative",
+        "degree": "Bachelor's in Business or Marketing",
+        "salary": "\u20b92,50,000 - \u20b98,00,000",
+        "category": " Consumer Electronics",
+        "description": "Sells consumer electronics to customers and manages client relationships."
+    },
+    "Yoga Instructor": {
+        "name": "Yoga Instructor",
+        "degree": "Certification in Yoga Instruction",
+        "salary": "\u20b92,00,000 - \u20b95,00,000",
+        "category": " Fitness, Sports, and Wellness",
+        "description": "Teaches yoga classes and promotes health and wellness."
+    },
+    "Dietitian": {
+        "name": "Dietitian",
+        "degree": "Bachelor's or Master's in Dietetics/Nutrition",
+        "salary": "\u20b93,00,000 - \u20b98,00,000",
+        "category": " Fitness, Sports, and Wellness",
+        "description": "Provides nutritional advice and creates meal plans for clients."
+    },
+    "Digital Marketing Specialist": {
+        "name": "Digital Marketing Specialist",
+        "degree": "Bachelor's in Marketing or Communication",
+        "salary": "\u20b93,00,000 - \u20b98,00,000",
+        "category": " Digital Marketing and Social Media",
+        "description": "Implements digital marketing strategies to increase brand visibility."
+    },
+    "SEO Specialist": {
+        "name": "SEO Specialist",
+        "degree": "Bachelor's in Marketing or IT",
+        "salary": "\u20b93,00,000 - \u20b98,00,000",
+        "category": " Digital Marketing and Social Media",
+        "description": "Optimizes websites to improve search engine rankings."
+    },
+    "Social Media Manager": {
+        "name": "Social Media Manager",
+        "degree": "Bachelor's in Marketing or Communication",
+        "salary": "\u20b94,00,000 - \u20b910,00,000",
+        "category": " Digital Marketing and Social Media",
+        "description": "Manages social media accounts and develops online presence strategies."
+    },
+    "Content Strategist": {
+        "name": "Content Strategist",
+        "degree": "Bachelor's in Marketing, Communication, or related field",
+        "salary": "\u20b94,00,000 - \u20b910,00,000",
+        "category": " Digital Marketing and Social Media",
+        "description": "Develops content strategies to meet marketing goals."
+    },
+    "Online Campaign Manager": {
+        "name": "Online Campaign Manager",
+        "degree": "Bachelor's in Marketing or Business",
+        "salary": "\u20b94,00,000 - \u20b910,00,000",
+        "category": " Digital Marketing and Social Media",
+        "description": "Plans and executes online marketing campaigns to promote products or services."
+    },
+    "Network Administrator": {
+        "name": "Network Administrator",
+        "degree": "Bachelor's in Computer Science or IT",
+        "salary": "\u20b94,00,000 - \u20b910,00,000",
+        "category": " Telecommunications and Networking",
+        "description": "Manages and maintains computer networks for organizations."
+    },
+    "Telecommunications Specialist": {
+        "name": "Telecommunications Specialist",
+        "degree": "Bachelor's in Telecommunications or Engineering",
+        "salary": "\u20b94,00,000 - \u20b910,00,000",
+        "category": " Telecommunications and Networking",
+        "description": "Designs and manages telecommunications systems and networks."
+    },
+    "Network Engineer": {
+        "name": "Network Engineer",
+        "degree": "Bachelor's in Computer Science or Networking",
+        "salary": "\u20b94,00,000 - \u20b912,00,000",
+        "category": " Telecommunications and Networking",
+        "description": "Designs and implements networking solutions for organizations."
+    },
+    "IT Support Specialist": {
+        "name": "IT Support Specialist",
+        "degree": "Associate's or Bachelor's in IT",
+        "salary": "\u20b92,50,000 - \u20b96,00,000",
+        "category": " Telecommunications and Networking",
+        "description": "Provides technical support and troubleshooting for IT systems."
+    },
+    "Automation Engineer": {
+        "name": "Automation Engineer",
+        "degree": "Bachelor's in Automation Engineering or related field",
+        "salary": "\u20b95,00,000 - \u20b912,00,000",
+        "category": " Engineering and Industrial Automation",
+        "description": "Designs and implements automated systems for manufacturing processes."
+    },
+    "Robotics Engineer": {
+        "name": "Robotics Engineer",
+        "degree": "Bachelor's in Robotics or Mechanical Engineering",
+        "salary": "\u20b96,00,000 - \u20b915,00,000",
+        "category": " Engineering and Industrial Automation",
+        "description": "Designs and develops robotic systems for various applications."
+    },
+    "Import/Export Specialist": {
+        "name": "Import/Export Specialist",
+        "degree": "Bachelor's in International Trade or Business",
+        "salary": "\u20b94,00,000 - \u20b910,00,000",
+        "category": " Import and Export Trade",
+        "description": "Manages import and export transactions and ensures compliance with regulations."
+    },
+    "Customs Broker": {
+        "name": "Customs Broker",
+        "degree": "No formal degree required but certification is necessary",
+        "salary": "\u20b93,00,000 - \u20b97,00,000",
+        "category": " Import and Export Trade",
+        "description": "Helps clients navigate customs regulations and facilitate the import/export process."
+    },
+    "International Trade Specialist": {
+        "name": "International Trade Specialist",
+        "degree": "Bachelor's in International Business or Trade",
+        "salary": "\u20b95,00,000 - \u20b912,00,000",
+        "category": " Import and Export Trade",
+        "description": "Advises organizations on international trade regulations and strategies."
+    },
+    "Logistics Coordinator": {
+        "name": "Logistics Coordinator",
+        "degree": "Bachelor's in Supply Chain Management or related field",
+        "salary": "\u20b93,00,000 - \u20b98,00,000",
+        "category": " Import and Export Trade",
+        "description": "Manages logistics and supply chain activities for import/export operations."
+    },
+    "Supply Chain Manager": {
+        "name": "Supply Chain Manager",
+        "degree": "Bachelor's in Supply Chain Management or Business",
+        "salary": "\u20b96,00,000 - \u20b915,00,000",
+        "category": " Import and Export Trade",
+        "description": "Oversees supply chain processes and manages relationships with suppliers and distributors."
+    },
+    "Mining Engineer": {
+        "name": "Mining Engineer",
+        "degree": "Bachelor's in Mining Engineering",
+        "salary": "\u20b95,00,000 - \u20b912,00,000",
+        "category": " Mining and Metals",
+        "description": "Designs and operates mines to extract minerals and resources."
+    },
+    "Metallurgical Engineer": {
+        "name": "Metallurgical Engineer",
+        "degree": "Bachelor's in Metallurgical Engineering",
+        "salary": "\u20b95,00,000 - \u20b912,00,000",
+        "category": " Mining and Metals",
+        "description": "Works with metals to develop and improve metal products and processes."
+    },
+    "Safety Officer": {
+        "name": "Safety Officer",
+        "degree": "Bachelor's in Safety Management or Engineering",
+        "salary": "\u20b93,00,000 - \u20b97,00,000",
+        "category": " Mining and Metals",
+        "description": "Ensures workplace safety and compliance with regulations in mining operations."
+    },
+    "Drilling Engineer": {
+        "name": "Drilling Engineer",
+        "degree": "Bachelor's in Petroleum or Mechanical Engineering",
+        "salary": "\u20b95,00,000 - \u20b912,00,000",
+        "category": " Mining and Metals",
+        "description": "Designs and implements drilling plans for resource extraction."
+    },
+    "Maintenance Technician": {
+        "name": "Maintenance Technician",
+        "degree": "No formal degree required, but technical training is beneficial",
+        "salary": "\u20b92,00,000 - \u20b95,00,000",
+        "category": " Property Management and Facilities Services",
+        "description": "Performs maintenance and repairs on buildings and facilities."
+    },
+    "Facilities Manager": {
+        "name": "Facilities Manager",
+        "degree": "Bachelor's in Facilities Management or Business",
+        "salary": "\u20b96,00,000 - \u20b912,00,000",
+        "category": " Property Management and Facilities Services",
+        "description": "Oversees facility operations, maintenance, and safety."
+    },
+    "Cosmetologist": {
+        "name": "Cosmetologist",
+        "degree": "Diploma in Cosmetology",
+        "salary": "\u20b92,00,000 - \u20b96,00,000",
+        "category": " Cosmetics and Beauty Industry",
+        "description": "Provides beauty treatments and services, including hair, skin, and makeup."
+    },
+    "Esthetician": {
+        "name": "Esthetician",
+        "degree": "Diploma in Esthetics",
+        "salary": "\u20b92,00,000 - \u20b95,00,000",
+        "category": " Cosmetics and Beauty Industry",
+        "description": "Specializes in skin care treatments and beauty techniques."
+    },
+    "Beauty Product Developer": {
+        "name": "Beauty Product Developer",
+        "degree": "Bachelor's in Cosmetic Science or Chemistry",
+        "salary": "\u20b94,00,000 - \u20b910,00,000",
+        "category": " Cosmetics and Beauty Industry",
+        "description": "Develops and tests new beauty products for the market."
+    },
+    "Salon Manager": {
+        "name": "Salon Manager",
+        "degree": "Bachelor's in Business or Cosmetology",
+        "salary": "\u20b94,00,000 - \u20b98,00,000",
+        "category": " Cosmetics and Beauty Industry",
+        "description": "Manages daily operations of a beauty salon."
+    },
+    "Makeup Artist": {
+        "name": "Makeup Artist",
+        "degree": "Certification in Makeup Artistry",
+        "salary": "\u20b92,00,000 - \u20b98,00,000",
+        "category": " Cosmetics and Beauty Industry",
+        "description": "Applies makeup for clients in various settings, including fashion, film, and weddings."
+    },
+    "Photographer": {
+        "name": "Photographer",
+        "degree": "No formal degree required, but training is beneficial",
+        "salary": "\u20b92,00,000 - \u20b98,00,000",
+        "category": " Photography and Videography",
+        "description": "Captures images for various purposes, including events, portraits, and commercial projects."
+    },
+    "Video Editor": {
+        "name": "Video Editor",
+        "degree": "Bachelor's in Film or Media Studies",
+        "salary": "\u20b92,50,000 - \u20b96,00,000",
+        "category": " Photography and Videography",
+        "description": "Edits video footage to create cohesive and engaging content."
+    },
+    "Cinematographer": {
+        "name": "Cinematographer",
+        "degree": "Bachelor's in Film Production or related field",
+        "salary": "\u20b95,00,000 - \u20b915,00,000",
+        "category": " Photography and Videography",
+        "description": "Responsible for capturing the visual aspects of films and videos."
+    },
+    "Art Director": {
+        "name": "Art Director",
+        "degree": "Bachelor's in Fine Arts or Design",
+        "salary": "\u20b94,00,000 - \u20b910,00,000",
+        "category": " Photography and Videography",
+        "description": "Oversees the visual style and artistic direction of projects."
+    },
+    "Veterinarian": {
+        "name": "Veterinarian",
+        "degree": "Doctor of Veterinary Medicine (DVM)",
+        "salary": "\u20b96,00,000 - \u20b915,00,000",
+        "category": " Veterinary and Animal Care",
+        "description": "Provides medical care to animals and diagnoses illnesses."
+    },
+    "Veterinary Technician": {
+        "name": "Veterinary Technician",
+        "degree": "Associate's in Veterinary Technology",
+        "salary": "\u20b92,50,000 - \u20b96,00,000",
+        "category": " Veterinary and Animal Care",
+        "description": "Assists veterinarians in providing medical care to animals."
+    },
+    "Pet Groomer": {
+        "name": "Pet Groomer",
+        "degree": "Certification in Pet Grooming",
+        "salary": "\u20b91,80,000 - \u20b94,00,000",
+        "category": " Veterinary and Animal Care",
+        "description": "Cleans and styles pets, focusing on hygiene and appearance."
+    },
+    "Zookeeper": {
+        "name": "Zookeeper",
+        "degree": "Bachelor's in Zoology or Animal Care",
+        "salary": "\u20b92,50,000 - \u20b96,00,000",
+        "category": " Veterinary and Animal Care",
+        "description": "Cares for animals in a zoo environment and educates the public."
+    },
+    "Animal Shelter Manager": {
+        "name": "Animal Shelter Manager",
+        "degree": "Bachelor's in Animal Science or related field",
+        "salary": "\u20b93,00,000 - \u20b98,00,000",
+        "category": " Veterinary and Animal Care",
+        "description": "Oversees operations of animal shelters and rehabilitation services."
+    },
+    "Wedding Planner": {
+        "name": "Wedding Planner",
+        "degree": "Certification in Wedding Planning",
+        "salary": "\u20b92,50,000 - \u20b97,00,000",
+        "category": " Event Planning and Services",
+        "description": "Specializes in organizing weddings and ensuring details are executed flawlessly."
+    },
+    "Catering Manager": {
+        "name": "Catering Manager",
+        "degree": "Bachelor's in Hospitality Management or Culinary Arts",
+        "salary": "\u20b94,00,000 - \u20b910,00,000",
+        "category": " Event Planning and Services",
+        "description": "Manages catering operations and oversees food service for events."
+    },
+    "Party Planner": {
+        "name": "Party Planner",
+        "degree": "Certification in Event Planning",
+        "salary": "\u20b92,00,000 - \u20b95,00,000",
+        "category": " Event Planning and Services",
+        "description": "Organizes and coordinates parties and private events."
+    },
+    "Event Marketing Specialist": {
+        "name": "Event Marketing Specialist",
+        "degree": "Bachelor's in Marketing or Event Management",
+        "salary": "\u20b93,00,000 - \u20b98,00,000",
+        "category": " Event Planning and Services",
+        "description": "Develops marketing strategies to promote events and increase attendance."
+    },
+    "Ship Engineer": {
+        "name": "Ship Engineer",
+        "degree": "Bachelor's in Marine Engineering",
+        "salary": "\u20b96,00,000 - \u20b915,00,000",
+        "category": " Maritime and Shipbuilding",
+        "description": "Operates and maintains the machinery on board ships."
+    },
+    "Marine Architect": {
+        "name": "Marine Architect",
+        "degree": "Bachelor's in Naval Architecture",
+        "salary": "\u20b96,00,000 - \u20b915,00,000",
+        "category": " Maritime and Shipbuilding",
+        "description": "Designs and oversees the construction of marine vessels."
+    },
+    "Ship Captain": {
+        "name": "Ship Captain",
+        "degree": "Bachelor's in Nautical Science or Marine Engineering",
+        "salary": "\u20b98,00,000 - \u20b920,00,000",
+        "category": " Maritime and Shipbuilding",
+        "description": "Commands and navigates a ship and ensures safety at sea."
+    },
+    "Maritime Engineer": {
+        "name": "Maritime Engineer",
+        "degree": "Bachelor's in Marine Engineering",
+        "salary": "\u20b95,00,000 - \u20b912,00,000",
+        "category": " Maritime and Shipbuilding",
+        "description": "Designs and develops ships and marine systems."
+    },
+    "Shipbuilder": {
+        "name": "Shipbuilder",
+        "degree": "No formal degree required, vocational training is beneficial",
+        "salary": "\u20b92,50,000 - \u20b96,00,000",
+        "category": " Maritime and Shipbuilding",
+        "description": "Constructs and repairs ships and marine vessels."
+    },
+    "Casino Dealer": {
+        "name": "Casino Dealer",
+        "degree": "No formal degree required, but training is necessary",
+        "salary": "\u20b91,80,000 - \u20b94,00,000",
+        "category": " Gambling & Casinos",
+        "description": "Facilitates card games and other casino games, ensuring fair play."
+    },
+    "Slot Operations Manager": {
+        "name": "Slot Operations Manager",
+        "degree": "Bachelor's in Hospitality Management or Business",
+        "salary": "\u20b94,00,000 - \u20b910,00,000",
+        "category": " Gambling & Casinos",
+        "description": "Manages slot machine operations and ensures compliance with regulations."
+    },
+    "Gaming Surveillance Officer": {
+        "name": "Gaming Surveillance Officer",
+        "degree": "No formal degree required, but experience in security is beneficial",
+        "salary": "\u20b92,00,000 - \u20b95,00,000",
+        "category": " Gambling & Casinos",
+        "description": "Monitors gaming activities to prevent cheating and ensure fairness."
+    },
+    "Casino Host": {
+        "name": "Casino Host",
+        "degree": "Bachelor's in Hospitality Management or related field",
+        "salary": "\u20b93,00,000 - \u20b98,00,000",
+        "category": " Gambling & Casinos",
+        "description": "Provides personalized service to high-value guests in casinos."
+    },
+    "Casino Manager": {
+        "name": "Casino Manager",
+        "degree": "Bachelor's in Business or Hospitality Management",
+        "salary": "\u20b96,00,000 - \u20b915,00,000",
+        "category": " Gambling & Casinos",
+        "description": "Oversees casino operations and manages staff."
+    },
+    "Translator": {
+        "name": "Translator",
+        "degree": "Bachelor's in Translation or Linguistics",
+        "salary": "\u20b92,50,000 - \u20b96,00,000",
+        "category": " Languages and Translation Services",
+        "description": "Translates written content from one language to another."
+    },
+    "Interpreter": {
+        "name": "Interpreter",
+        "degree": "Bachelor's in Interpretation or Linguistics",
+        "salary": "\u20b92,50,000 - \u20b96,00,000",
+        "category": " Languages and Translation Services",
+        "description": "Provides real-time translation of spoken language during events or meetings."
+    },
+    "Language Teacher": {
+        "name": "Language Teacher",
+        "degree": "Bachelor's in Education or Language Studies",
+        "salary": "\u20b93,00,000 - \u20b98,00,000",
+        "category": " Languages and Translation Services",
+        "description": "Teaches languages to students in schools or language institutes."
+    },
+    "Localization Specialist": {
+        "name": "Localization Specialist",
+        "degree": "Bachelor's in Language Studies or Localization",
+        "salary": "\u20b93,00,000 - \u20b97,00,000",
+        "category": " Languages and Translation Services",
+        "description": "Adapts content for different languages and cultures in products and services."
+    },
+    "Linguist": {
+        "name": "Linguist",
+        "degree": "Bachelor's or Master's in Linguistics",
+        "salary": "\u20b94,00,000 - \u20b910,00,000",
+        "category": " Languages and Translation Services",
+        "description": "Studies language structure and development, often involved in research or education."
+    },
+    "Electronics Engineer": {
+        "name": "Electronics Engineer",
+        "degree": "Bachelor's in Electronics Engineering",
+        "salary": "\u20b95,00,000 - \u20b912,00,000",
+        "category": " Consumer Electronics",
+        "description": "Designs and develops electronic devices and systems."
+    },
+    "Audio Engineer": {
+        "name": "Audio Engineer",
+        "degree": "Bachelor's in Audio Engineering or related field",
+        "salary": "\u20b93,00,000 - \u20b98,00,000",
+        "category": " Consumer Electronics",
+        "description": "Works with audio equipment to produce sound for recordings and live events."
+    },
+    "Quality Assurance Tester": {
+        "name": "Quality Assurance Tester",
+        "degree": "Bachelor's in Computer Science or Engineering",
+        "salary": "\u20b93,00,000 - \u20b98,00,000",
+        "category": " Consumer Electronics",
+        "description": "Tests electronic products to ensure they meet quality standards."
+    },
+    "Brewer": {
+        "name": "Brewer",
+        "degree": "Bachelor's in Brewing Science or related field",
+        "salary": "\u20b93,00,000 - \u20b98,00,000",
+        "category": " Brewing and Winemaking",
+        "description": "Oversees the brewing process of beer production."
+    },
+    "Winemaker": {
+        "name": "Winemaker",
+        "degree": "Bachelor's in Viticulture or Enology",
+        "salary": "\u20b94,00,000 - \u20b910,00,000",
+        "category": " Brewing and Winemaking",
+        "description": "Produces wine by overseeing the fermentation and aging processes."
+    },
+    "Cicerone": {
+        "name": "Cicerone",
+        "degree": "Certification in Beer Service",
+        "salary": "\u20b92,50,000 - \u20b96,00,000",
+        "category": " Brewing and Winemaking",
+        "description": "Beer expert who advises on beer selections and pairings."
+    },
+    "Viticulturist": {
+        "name": "Viticulturist",
+        "degree": "Bachelor's in Viticulture or Horticulture",
+        "salary": "\u20b93,00,000 - \u20b98,00,000",
+        "category": " Brewing and Winemaking",
+        "description": "Studies and manages grape cultivation for winemaking."
+    },
+    "Wine Taster": {
+        "name": "Wine Taster",
+        "degree": "Certification in Wine Tasting or related field",
+        "salary": "\u20b92,50,000 - \u20b96,00,000",
+        "category": " Brewing and Winemaking",
+        "description": "Evaluates wines for taste, aroma, and quality."
+    },
+    "Comic Artist": {
+        "name": "Comic Artist",
+        "degree": "Bachelor's in Fine Arts or Illustration",
+        "salary": "\u20b92,50,000 - \u20b96,00,000",
+        "category": " Graphic Novels and Comics",
+        "description": "Creates illustrations and artwork for comics and graphic novels."
+    },
+    "Software Engineer": {
+        "name": "Software Engineer",
+        "degree": "Bachelor's in Computer Science or Engineering",
+        "salary": "\u20b95,00,000 - \u20b912,00,000",
+        "category": " Tech Startups",
+        "description": "Develops and maintains software applications for startups."
+    },
+    "Data Scientist": {
+        "name": "Data Scientist",
+        "degree": "Master's in Data Science, Statistics, or related field",
+        "salary": "\u20b98,00,000 - \u20b920,00,000",
+        "category": " Tech Startups",
+        "description": "Analyzes data to inform business decisions and strategies."
+    },
+    "UX Designer": {
+        "name": "UX Designer",
+        "degree": "Bachelor's in Design or Human-Computer Interaction",
+        "salary": "\u20b94,00,000 - \u20b910,00,000",
+        "category": " Tech Startups",
+        "description": "Designs user-friendly interfaces and experiences for software applications."
+    },
+    "Growth Hacker": {
+        "name": "Growth Hacker",
+        "degree": "Bachelor's in Marketing or Business",
+        "salary": "\u20b94,00,000 - \u20b910,00,000",
+        "category": " Tech Startups",
+        "description": "Focuses on innovative marketing strategies to drive user growth for startups."
+    },
+    "Music Producer": {
+        "name": "Music Producer",
+        "degree": "Bachelor's in Music Production or related field",
+        "salary": "\u20b95,00,000 - \u20b915,00,000",
+        "category": " Music Production",
+        "description": "Oversees the production of music recordings and manages the recording process."
+    },
+    "Sound Engineer": {
+        "name": "Sound Engineer",
+        "degree": "Bachelor's in Audio Engineering or Music Technology",
+        "salary": "\u20b93,00,000 - \u20b98,00,000",
+        "category": " Music Production",
+        "description": "Manages audio equipment and ensures high-quality sound during recordings."
+    },
+    "Composer": {
+        "name": "Composer",
+        "degree": "Bachelor's in Music Composition",
+        "salary": "\u20b94,00,000 - \u20b910,00,000",
+        "category": " Music Production",
+        "description": "Creates original music scores for films, games, and other media."
+    },
+    "Music Teacher": {
+        "name": "Music Teacher",
+        "degree": "Bachelor's in Music Education",
+        "salary": "\u20b93,00,000 - \u20b98,00,000",
+        "category": " Music Production",
+        "description": "Teaches music theory and performance to students of various ages."
+    },
+    "Session Musician": {
+        "name": "Session Musician",
+        "degree": "No formal degree required, but proficiency in an instrument is essential",
+        "salary": "\u20b92,00,000 - \u20b96,00,000",
+        "category": " Music Production",
+        "description": "Performs music for recordings and live performances as a hired musician."
+    },
+    "Textile Designer": {
+        "name": "Textile Designer",
+        "degree": "Bachelor's in Textile Design or Fashion",
+        "salary": "\u20b93,00,000 - \u20b98,00,000",
+        "category": " Textiles and Fashion Industry",
+        "description": "Creates patterns and designs for textiles and fabrics."
+    },
+    "Buyer": {
+        "name": "Buyer",
+        "degree": "Bachelor's in Fashion Merchandising or Business",
+        "salary": "\u20b94,00,000 - \u20b910,00,000",
+        "category": " Textiles and Fashion Industry",
+        "description": "Purchases clothing and accessories for retail stores."
+    },
+    "Fashion Photographer": {
+        "name": "Fashion Photographer",
+        "degree": "Bachelor's in Photography or Fine Arts",
+        "salary": "\u20b92,50,000 - \u20b96,00,000",
+        "category": " Textiles and Fashion Industry",
+        "description": "Captures images for fashion campaigns and editorial spreads."
+    },
+    "Diplomat": {
+        "name": "Diplomat",
+        "degree": "Bachelor's in International Relations or Political Science",
+        "salary": "\u20b98,00,000 - \u20b920,00,000",
+        "category": " International Affairs and Policy",
+        "description": "Represents a country's interests abroad and manages diplomatic relations."
+    },
+    "Foreign Service Officer": {
+        "name": "Foreign Service Officer",
+        "degree": "Bachelor's in International Relations or related field",
+        "salary": "\u20b96,00,000 - \u20b915,00,000",
+        "category": " International Affairs and Policy",
+        "description": "Works in embassies or consulates to manage diplomatic missions."
+    },
+    "Policy Analyst": {
+        "name": "Policy Analyst",
+        "degree": "Master's in Public Policy or International Relations",
+        "salary": "\u20b94,00,000 - \u20b910,00,000",
+        "category": " International Affairs and Policy",
+        "description": "Analyzes policies and provides recommendations to policymakers."
+    },
+    "International Relations Specialist": {
+        "name": "International Relations Specialist",
+        "degree": "Master's in International Relations",
+        "salary": "\u20b95,00,000 - \u20b912,00,000",
+        "category": " International Affairs and Policy",
+        "description": "Studies global issues and advises organizations on international policies."
+    },
+    "Immigration Officer": {
+        "name": "Immigration Officer",
+        "degree": "Bachelor's in Immigration Law or related field",
+        "salary": "\u20b93,00,000 - \u20b97,00,000",
+        "category": " International Affairs and Policy",
+        "description": "Processes immigration applications and ensures compliance with immigration laws."
+    },
+    "Office Manager": {
+        "name": "Office Manager",
+        "degree": "Bachelor's in Business Administration or Management",
+        "salary": "\u20b94,00,000 - \u20b910,00,000",
+        "category": " Office Supplies and Equipment",
+        "description": "Oversees daily office operations and manages staff."
+    },
+    "Procurement Officer": {
+        "name": "Procurement Officer",
+        "degree": "Bachelor's in Supply Chain Management or Business",
+        "salary": "\u20b94,00,000 - \u20b910,00,000",
+        "category": " Office Supplies and Equipment",
+        "description": "Manages purchasing processes and vendor contracts for office supplies."
+    },
+    "Sales Manager": {
+        "name": "Sales Manager",
+        "degree": "Bachelor's in Business or Marketing",
+        "salary": "\u20b96,00,000 - \u20b915,00,000",
+        "category": " Office Supplies and Equipment",
+        "description": "Leads the sales team and develops strategies to meet sales targets."
+    }
+}
