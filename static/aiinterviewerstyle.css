@@ -45,6 +45,12 @@
     height: 80px;
     bottom: 6vh;
     left: 19px;
+    background-image: url(/static/img/group-14.png);
+}
+
+#input {
+    width: 80%;
+    height: 80%;
 }
 
 .AI-interviewer .send {

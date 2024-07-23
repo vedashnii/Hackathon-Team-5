@@ -1,7 +1,17 @@
 from flask import Flask, render_template, request, redirect, session, url_for
 import career
+from openai import OpenAI
+import os
+import string
+import random
+
+client = OpenAI(
+    # This is the default and can be omitted
+    api_key=os.environ.get("OPENAI_KEY"),
+)
 
 app = Flask(__name__)
+app.secret_key = "abcdefg"
 
 @app.route("/")
 @app.route("/home")
@@ -38,6 +48,32 @@ def buildResume():
 @app.route("/aiinterviewer")
 def aiInterviewer():
     return render_template("aiinterviewer.html")
+
+
+# CHATGPT
+chats = {}
+@app.route("/api/newchat", methods=["GET"])
+def newChat():
+    chat_id = ''.join(random.choices(string.ascii_uppercase +
+                             string.digits, k=10))
+    chats[chat_id] = [{
+        "role": "system",
+        "content": "You are interviewing me. First, ask me what language you would like to interview me in."
+    }]
+    res = client.chat.completions.create( 
+        model="gpt-3.5-turbo", messages=chats[chat_id] 
+    ) 
+    session["chatid"] = id
+    return res
+
+@app.route("/api/handlechat", methods=["POST"])
+def handleChat():
+    chat_id = session["chatid"]
+    chats[chat_id].append(request.get_json())
+    res = client.chat.completions.create( 
+        model="gpt-3.5-turbo", messages=chats[chat_id] 
+    )
+    return res
 
 if __name__ == "__main__":
     import os
