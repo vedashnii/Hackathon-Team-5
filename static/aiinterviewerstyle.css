@@ -110,12 +110,13 @@
     display: flex;
     position: relative;
     left: 5vw;
+    overflow-y: scroll;
 }
 
 .msg {
     font-size: 1.5em;
     background-color: #D9D9D9;
-    border-radius: 999em;
+    border-radius: 1em;
     padding: 0.5em;
     width: fit-content;
     font-family: "Inter", Helvetica;

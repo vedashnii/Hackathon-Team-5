@@ -4,6 +4,7 @@ import os
 import string
 import random
 import requests
+import json
 
 
 from aixplain.factories import PipelineFactory
@@ -57,13 +58,13 @@ def newChat():
                              string.digits, k=10)))
     chats[chat_id] = [{
         "role": "system",
-        "content": "What language would you like to conduct the interview in?"
+        "content": "This is an interview in which the assistant asks a single question at a time. The assistant's first question was: What language would you like to conduct the interview in?"
     }]
 
     # AI 
     res = pipeline.run({
         'Text': request.args["language"],
-        'History': str(chats[chat_id]),
+        'History': json.dumps(chats[chat_id]),
     })
     if res["data"][0]["segments"][0]["is_url"]:
         res = str(requests.get(res["data"][0]["segments"][0]["response"]).text)
@@ -76,7 +77,7 @@ def newChat():
         "content": request.args["language"],
     })
     chats[chat_id].append({
-        "role": "ai",
+        "role": "assistant",
         "content": res
     })
     session["chatid"] = chat_id
@@ -91,10 +92,13 @@ def handleChat():
     req = request.get_json()
     res = pipeline.run({
         'Text': req,
-        'History': string(chats[chat_id]),
+        'History': json.dumps(chats[chat_id]),
     })
     if res["data"][0]["segments"][0]["is_url"]:
-        res = str(requests.get(res["data"][0]["segments"][0]["response"]).text)
+        if not res["data"][0]["segments"][0]["success"]:
+            res = str(res["data"][0]["segments"][0]["error"])
+        else:
+            res = str(requests.get(res["data"][0]["segments"][0]["response"]).text)
     else:
         res = str(res["data"][0]["segments"][0]["response"])
 
@@ -103,9 +107,10 @@ def handleChat():
         "content": req,
     })
     chats[chat_id].append({
-        "role": "ai",
+        "role": "assistant",
         "content": res
     })
+    print(chats)
 
     response = make_response(res, 200)
     response.mimetype = "text/plain"
