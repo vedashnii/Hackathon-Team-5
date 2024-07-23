@@ -91,7 +91,7 @@ def handleChat():
     chat_id = session["chatid"]
     req = request.get_json()
     res = pipeline.run({
-        'Text': req,
+        'Text': req["content"],
         'History': json.dumps(chats[chat_id]),
     })
     if res["data"][0]["segments"][0]["is_url"]:
@@ -102,10 +102,7 @@ def handleChat():
     else:
         res = str(res["data"][0]["segments"][0]["response"])
 
-    chats[chat_id].append({
-        "role": "user",
-        "content": req,
-    })
+    chats[chat_id].append(req)
     chats[chat_id].append({
         "role": "assistant",
         "content": res
