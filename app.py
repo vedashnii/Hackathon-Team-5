@@ -1,14 +1,13 @@
-from flask import Flask, render_template, request, redirect, session, url_for
+from flask import Flask, render_template, request, redirect, session, url_for, make_response
 import career
-from openai import OpenAI
 import os
 import string
 import random
+import requests
 
-client = OpenAI(
-    # This is the default and can be omitted
-    api_key=os.environ.get("OPENAI_KEY"),
-)
+
+from aixplain.factories import PipelineFactory
+pipeline = PipelineFactory.get("66a007ce561ded999ac14abf")
 
 app = Flask(__name__)
 app.secret_key = "abcdefg"
@@ -54,26 +53,63 @@ def aiInterviewer():
 chats = {}
 @app.route("/api/newchat", methods=["GET"])
 def newChat():
-    chat_id = ''.join(random.choices(string.ascii_uppercase +
-                             string.digits, k=10))
+    chat_id = str(''.join(random.choices(string.ascii_uppercase +
+                             string.digits, k=10)))
     chats[chat_id] = [{
         "role": "system",
-        "content": "You are interviewing me. First, ask me what language you would like to interview me in."
+        "content": "What language would you like to conduct the interview in?"
     }]
-    res = client.chat.completions.create( 
-        model="gpt-3.5-turbo", messages=chats[chat_id] 
-    ) 
-    session["chatid"] = id
-    return res
+
+    # AI 
+    res = pipeline.run({
+        'Text': request.args["language"],
+        'History': str(chats[chat_id]),
+    })
+    if res["data"][0]["segments"][0]["is_url"]:
+        res = str(requests.get(res["data"][0]["segments"][0]["response"]).text)
+    else:
+        res = str(res["data"][0]["segments"][0]["response"])
+
+    # Add messages
+    chats[chat_id].append({
+        "role": "user",
+        "content": request.args["language"],
+    })
+    chats[chat_id].append({
+        "role": "ai",
+        "content": res
+    })
+    session["chatid"] = chat_id
+
+    response = make_response(res, 200)
+    response.mimetype = "text/plain"
+    return response
 
 @app.route("/api/handlechat", methods=["POST"])
 def handleChat():
     chat_id = session["chatid"]
-    chats[chat_id].append(request.get_json())
-    res = client.chat.completions.create( 
-        model="gpt-3.5-turbo", messages=chats[chat_id] 
-    )
-    return res
+    req = request.get_json()
+    res = pipeline.run({
+        'Text': req,
+        'History': string(chats[chat_id]),
+    })
+    if res["data"][0]["segments"][0]["is_url"]:
+        res = str(requests.get(res["data"][0]["segments"][0]["response"]).text)
+    else:
+        res = str(res["data"][0]["segments"][0]["response"])
+
+    chats[chat_id].append({
+        "role": "user",
+        "content": req,
+    })
+    chats[chat_id].append({
+        "role": "ai",
+        "content": res
+    })
+
+    response = make_response(res, 200)
+    response.mimetype = "text/plain"
+    return response
 
 if __name__ == "__main__":
     import os

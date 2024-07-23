@@ -18,15 +18,15 @@
                     <div class="text-wrapper">AI interviewer</div>
                     <div class="div">
                         <div class="msg-box">
-
+                            <div class="msg aimsg">What language would you like to be interviewed in?</div>
                         </div>
                     </div>
                     <img class="line" src="/static/img/line-4.png" />
                     <form>
                         <div class="group">
-                            <input placeholder="Type your message here..." id="input" disabled>
+                            <input placeholder="Type your message here..." id="input">
                         </div>
-                        <button style="display: inline" onclick="send()"><img class="send"
+                        <button style="display: inline" onclick="send(event)"><img class="send"
                                 src="/static/img/send.png" /></button>
                     </form>
                 </div> <img class="black-white-simple" src="/static/img/star.png" />
