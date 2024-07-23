@@ -35,6 +35,10 @@ def careerFavoritePage():
 def buildResume():
     return render_template("resumebuilder.html")
 
+@app.route("/aiinterviewer")
+def aiInterviewer():
+    return render_template("aiinterviewer.html")
+
 if __name__ == "__main__":
     import os
     HOST = os.environ.get("SERVER_HOST", "localhost")
