@@ -9,17 +9,17 @@
 .AI-interviewer .overlap-group-wrapper {
     background-color: rgba(255, 255, 255, 1);
     background: linear-gradient(180deg, rgb(130.69, 180.41, 159.53) 0%, rgb(131.87, 152.34, 181.13) 100%);
-    width: 1440px;
-    height: 1024px;
+    width: 100vw;
+    height: 100vh;
 }
 
 .AI-interviewer .overlap-group {
     position: relative;
-    width: 1369px;
-    height: 928px;
+    width: 90vw;
+    height: 90vh;
     top: 55px;
     left: 35px;
-    background-image: url(./img/rectangle-12.svg);
+    background-image: url(/static/img/rectangle-12.png);
     background-size: 100% 100%;
 }
 
@@ -27,37 +27,43 @@
     position: absolute;
     width: 48px;
     height: 48px;
-    top: 47px;
-    left: 1280px;
+    top: 5vh;
+    right: 5vw;
 }
 
 .AI-interviewer .overlap {
     position: absolute;
-    width: 1315px;
-    height: 843px;
+    width: 91vw;
+    height: 82vh;
     top: 35px;
     left: 30px;
 }
 
 .AI-interviewer .group {
     position: absolute;
-    width: 1283px;
+    width: 78vw;
     height: 80px;
-    top: 748px;
+    bottom: 6vh;
     left: 19px;
+    background-image: url(/static/img/group-14.png);
+}
+
+#input {
+    width: 80%;
+    height: 80%;
 }
 
 .AI-interviewer .send {
     position: absolute;
     width: 48px;
     height: 48px;
-    top: 761px;
-    left: 1214px;
+    top: 68vh;
+    right: 14vw;
 }
 
 .AI-interviewer .text-wrapper {
     position: absolute;
-    width: 1076px;
+    width: 95vw;
     top: 0;
     left: 112px;
     font-family: "Inter-Bold", Helvetica;
@@ -70,8 +76,8 @@
 
 .AI-interviewer .div {
     position: absolute;
-    width: 1315px;
-    height: 743px;
+    width: 83vw;
+    height: 65vh;
     top: 100px;
     left: 0;
     border-radius: 45px;
@@ -82,9 +88,9 @@
 .AI-interviewer .line {
     position: absolute;
     width: 3px;
-    height: 570px;
-    top: 163px;
-    left: 24px;
+    height: 55vh;
+    top: 16vh;
+    left: 1.6vw;
 }
 
 .AI-interviewer .black-white-simple {
@@ -94,4 +100,39 @@
     top: 33px;
     left: 50px;
     object-fit: cover;
+}
+
+.msg-box {
+    width: 75vw;
+    height: 80%;
+    flex-direction: column-reverse;
+    gap: 20px;
+    display: flex;
+    position: relative;
+    left: 5vw;
+    overflow-y: scroll;
+}
+
+.msg {
+    font-size: 1.5em;
+    background-color: #D9D9D9;
+    border-radius: 1em;
+    padding: 0.5em;
+    width: fit-content;
+    font-family: "Inter", Helvetica;
+}
+
+.aimsg {
+    float: right;
+    text-align: start;
+    background-color: #7A97A9;
+    color: #fff;
+}
+
+.usermsg {
+    float: left;
+    text-align: end;
+    position: relative;
+    margin-left: auto;
+    color: #515B67
 }

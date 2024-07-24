@@ -3,20 +3,33 @@
 
 <head>
     <meta charset="utf-8" />
-    <link rel="stylesheet" href="globals.css" />
-    <link rel="stylesheet" href="styleguide.css" />
-    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="/static/globals.css" />
+    <link rel="stylesheet" href="/static/styleguide.css" />
+    <link rel="stylesheet" href="/static/style.css" />
+    <link rel="stylesheet" href="/static/aiinterviewerstyle.css" />
 </head>
 
 <body>
+    <script src="/static/scripts/aiinterview.js"></script>
     <div class="AI-interviewer">
         <div class="overlap-group-wrapper">
-            <div class="overlap-group"> <img class="x" src="img/x.svg" />
-                <div class="overlap"> <img class="group" src="img/group-14.png" /> <img class="send"
-                        src="img/send.svg" />
+            <div class="overlap-group"> <img class="x" src="/static/img/x.png" />
+                <div class="overlap">
                     <div class="text-wrapper">AI interviewer</div>
-                    <div class="div"></div> <img class="line" src="img/line-4.svg" />
-                </div> <img class="black-white-simple" src="img/black-white-simple-talk-logo-5-2.png" />
+                    <div class="div">
+                        <div class="msg-box" id="msg-box">
+                            <div class="msg aimsg">What language would you like to be interviewed in?</div>
+                        </div>
+                    </div>
+                    <img class="line" src="/static/img/line-4.png" />
+                    <form>
+                        <div class="group">
+                            <input placeholder="Type your message here..." id="input">
+                        </div>
+                        <button style="display: inline" onclick="send(event)"><img class="send"
+                                src="/static/img/send.png" /></button>
+                    </form>
+                </div> <img class="black-white-simple" src="/static/img/star.png" />
             </div>
         </div>
     </div>
